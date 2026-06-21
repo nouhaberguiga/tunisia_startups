@@ -1,79 +1,94 @@
 [
   {
-    "nom": "CIEUX APEX S.A",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "3DWAVE",
+    "website": "3dwave.tech",
+    "description": "Nous sommes un centre 3D créé en 2018 spécialisé dans le développement des applications mobile basé sur les technologies de la réalité augmentée et la réalité virtuelle pour tout les domaines et secteurs et spécialement le secteur touristique et culturel, aussi nous faisons le scan et et l'impression 3D à la fois. Nous maitrisons les technologies de 3D, la réalité augmentée et la réalité virtuelle et récemment le Meta verse. L'originalité dans notre projet est de promouvoir le secteur touristique et culturel avec les nouvelles technologies.",
+    "secteur": "Business Software and services",
+    "source": "tunisie_pdf",
+    "sources_contributrices": [
+      "thedot",
+      "tunisie_pdf"
+    ]
+  },
+  {
+    "nom": "ACTIFS PRÉCIEUX APEX S.A",
+    "website": "actifsprecieux.com",
+    "description": "Nous sommes spécialisés dans la technologie des fluides supercritiques. Nous développons et produisons des ingrédients bioactifs innovant extraits de plantes comme alternatives vertes pour la santé et le bien- être, dans une quête pour accélérer la consommation durable. L'utilisation de la technologie SC-CO2 pour l'extraction, la purification de composés bioactifs à partir de plantes. Grâce à des ingrédients bioactifs innovants, Actifs Précieux propose des solutions naturelles durables et responsables.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "ADDINN TUNISIE",
-    "website": "actifsprecieux.com",
-    "description": "Nous sommes spécialisés dans la technologie des ﬂuides supercritiques. Nous développons et produisons des ingrédients bioactifs innovant extraits de plantes comme alternatives vertes pour la santé et le bien- être, dans une quête pour accélérer la consommation durable.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Business Software and services actifsprecieux",
+    "website": "addinn.com",
+    "description": "ADDINN est un cabinet de conseil spécialisé en transformation digitale, ayant pour mission la création de la valeur depuis la réflexion stratégique jusqu’à la mise en œuvre des projets IT. Nos services : Conseil métier et technique, Digital & Software Factory, Professional Services et l'accompagnement Marketing. Notre Digital Factory accélère le développement des solutions IT via une expérience utilisateur (UX) optimisée. Une offre complète allant du consulting IT jusqu'à l'accompagnement marketing pour le lancement des solutions.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR FR EN EN 3DWAVE",
-    "website": "",
-    "description": "Nous sommes un centre 3D créé en 2018 spécialisé dans le développement des applications mobile basé sur les technologies de la réalité augmentée et la réalité virtuelle pour tout les domaines et secteurs et spécialement le secteur touristique et culturel, aussi nous faisons le scan et et l'impression 3D à la fois.",
-    "secteur": "Business Software and services 3dwave",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "SEPTEMBER 2022 A AREV",
-    "website": "makhbazti.com",
-    "description": "La numérisation de l'industrie de la boulangerie en utilisant des technologies de pointe et les outils les plus intelligents. Nous fournissons un écosystème logiciel/matériel pour réduire le gaspillage de ressources et optimiser le proﬁt.",
-    "secteur": "FoodTech & New Food makhbazti",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "FR EN AMAL XR",
-    "website": "amalxr.com",
-    "description": "Amal XR est une plateforme de jeux interactifs pour la rééducation des personnes handicapées. Il utilise des appareils largement disponibles comme les smartphones, les PC portables. La caméra embarquée détecte le mouvement du patient et le convertit dans un monde virtuel avec des scénarios médicaux et des KPI.",
-    "secteur": "HealthTech amalxr",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "FR EN AGGRIBRAND",
+    "nom": "AGGRIBRAND",
     "website": "aggribrand.com",
-    "description": "Aggribrand est une marktplace pour la commercialisation des produits de terroirs et agricoles.",
-    "secteur": "Agritech aggribrand",
+    "description": "Aggribrand est une marktplace pour la commercialisation des produits de terroirs et agricoles. Plateforme et application mobile Produits 100 % naturel et bio Consommation écoresponsable. Impact environnemental et social.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 B BAKO MOTORS",
-    "website": "bakomotors.com",
-    "description": "Bako Motors est une startup germano- tunisienne qui développe des véhicules électriques solaires. Nous construisons des solutions de transport haut de gamme, économiques et 100.% durables alimentées par le soleil de l'Afrique.",
-    "secteur": "Mobility bakomotors",
+    "nom": "AMAL XR",
+    "website": "amalxr.com",
+    "description": "Amal XR est une plateforme de jeux interactifs pour la rééducation des personnes handicapées. Il utilise des appareils largement disponibles comme les smartphones, les PC portables. La caméra embarquée détecte le mouvement du patient et le convertit dans un monde virtuel avec des scénarios médicaux et des KPI. Suivi de mouvement logiciel avec des techniques de vision par ordinateur. Nous n'utilisons pas de matériel spécifique qui est peu accessibles en régions éloignées ou même obsolète.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR EN BEENOMI",
-    "website": "beenomi.com",
-    "description": "Beenomi est une solution digitale de management et optimisation de logement locatif par l'intermédiaire des outils d'intelligence artiﬁcielle.",
-    "secteur": "Real Estate Tech beenomi",
+    "nom": "AREV",
+    "website": "makhbazti.com",
+    "description": "La numérisation de l'industrie de la boulangerie en utilisant des technologies de pointe et les outils les plus intelligents. Nous fournissons un écosystème logiciel/matériel pour réduire le gaspillage de ressources et optimiser le profit. point de vente connecté. application mobile pour les acheteurs. Analytics et bigData pour le site web. Appareils Iot. Je suis la 4e génération de boulangers dans ma famille. J'essaie de résoudre les problèmes auxquels j'ai été confronté.",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR EN BAITY.TN",
+    "nom": "BAITY.TN",
     "website": "baity.tn",
-    "description": "Baity.tn est une Marketplace spécialisé dans la vente en détail de tous articles maison, il regroupe plus de 300 vendeurs et un catalogue de 10000 articles.",
-    "secteur": "Commerce and shopping baity",
+    "description": "Baity.tn est une Marketplace spécialisé dans la vente en détail de tous articles maison, il regroupe plus de 300 vendeurs et un catalogue de 10000 articles. Baity.tn utilise les nouvelles tendances de Marketing digital et l'analyse de comportement de l'utilisateur. l'histoire a commencé en 2017 par le développent d'un site E-commerce, ma spécialité d’origine.",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 B BIOINNOV8A",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "BAKO MOTORS",
+    "website": "bakomotors.com",
+    "description": "Bako Motors est une startup germano- tunisienne qui développe des véhicules électriques solaires. Nous construisons des solutions de transport haut de gamme, économiques et 100.% durables alimentées par le soleil de l'Afrique. - le véhicule roule à partir des cellules Photovoltaiques.",
+    "secteur": "Mobility",
+    "source": "tunisie_pdf",
+    "sources_contributrices": [
+      "thedot",
+      "tunisie_pdf"
+    ]
+  },
+  {
+    "nom": "BEENOMI",
+    "website": "beenomi.com",
+    "description": "Beenomi est une solution digitale de management et optimisation de logement locatif par l'intermédiaire des outils d'intelligence artificielle. Une application web et mobile utilisant la technologie de la machine learning pour le matching entre offre et demande et CV pour anti-fraude. Offrir un outil complet de la prospection jusqu'au management en analysant les big data du marché, ID et offre vérifiés.",
+    "secteur": "Real Estate Tech",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "BE WIRELESS SOLUTIONS",
+    "website": "bewireless-solutions.com",
+    "description": "BWS offre des solutions IoT intégrées pour l'économie des ressources (Electricité, Eau, carburant, Gaz) à travers une plateforme unique de suivi des programmes d'économie. L'offre de BWS est une offre Hardware + connectivité + Applicatif. Les produits de BWS se basent sur l'IoT et sur l'AI à travers un module de «continuous learning» permettant la prédiction. Il s'agit d'une plateforme unique permettant de regrouper tous les programmes d'économie de ressource en une seule interface.",
+    "secteur": "Autre",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "BIOINNOV8A",
+    "website": "bioinnov-a8.com",
+    "description": "PlantVal : Plateforme intelligente pour la valorisation de la flore de la Tunisie dans plusieurs domaines, grâce aux Sciences des Données et à l’Intelligence Artificielle. PlantVal : plateforme intelligente pour la valorisation de la flore de la Tunisie. Provoquer un effet d’entrainement économique et social positif sur les personnes vivant de la filière.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "BRANPER",
-    "website": "bioinnov-a8.com",
-    "description": "PlantVal : Plateforme intelligente pour la valorisation de la ﬂore de la Tunisie dans plusieurs domaines, grâce aux Sciences des Données et à l’Intelligence Artiﬁcielle.",
-    "secteur": "Business Software and services Secteur d’activité / Sector : Business Software and services bioinnov-a8",
+    "website": "branper.com",
+    "description": "SaaS Big Data, qui aide les entreprises à collecter, analyser, et visualiser les données, pour une meilleure expérience clients / collaborateurs, benchmarquer la concurrence et prédire les nouvelles tendances. Nous avons conçu une technologie qui combine IA, machine learning et Scraping, pour collecter, croiser et visualiser. Une nouvelle technologie qui va révolutionner le marché, en répondant aux besoins actuels et pouvoir prédire les tendances.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -81,52 +96,45 @@
     ]
   },
   {
-    "nom": "FR FR EN EN BE WIRELESS SOLUTIONS",
-    "website": "bewireless-solutions.com",
-    "description": "BWS offre des solutions IoT intégrées pour l'économie des ressources (Electricité, Eau, carburant, Gaz) à travers une plateforme unique de suivi des programmes d'économie. L'offre de BWS est une offre Hardware + connectivité + Applicatif.",
-    "secteur": "Autre bewireless-solutions",
+    "nom": "BUS SOFTWARE",
+    "website": "winicari.tn",
+    "description": "Bus software développer une nouvelle méthode de transport intelligent qui se base sur la billetterie à bord des bus et la numérisation de tout le processus d’exploitation depuis la planification à l’information en temps réel des voyageurs. Notre mission est de rendre le sourire aux utilisateurs du transport public. Nous avons apporté une solution à : la billetterie manuelle; Absence de statistique; Absence d’accès à l’information. Notre objectif est de concevoir une intelligence artificielle pour avoir une offre de transport par bus optimisé.",
+    "secteur": "Mobility",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 BC CARGOWEEN",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "CARGOWEEN",
+    "website": "cargoween.com",
+    "description": "CargoWeen offre un outil digital permettant de chercher, comparer et réserver instantanément un fret aérien aux compagnies aériennes 24h24a7j/7. Web Application § BI. Réservation instantané du fret aérien en ligne, Informations et analyses du marché fret aérien en temps réel, Digitalisation de l’échange documentaire.",
+    "secteur": "Autre",
     "source": "tunisie_pdf"
   },
   {
     "nom": "CLOUDNET HOSTING",
-    "website": "cargoween.com",
-    "description": "CargoWeen offre un outil digital permettant de chercher, comparer et réserver instantanément un fret aérien aux compagnies aériennes 24h24a7j/7.",
-    "secteur": "Autre Secteur d’activité / Sector : Business Software and services cargoween",
+    "website": "felcloud.tn",
+    "description": "La mission de FelCloud est d'aider les entreprises de toutes tailles à réussir la transformation digitale et la migration d'infrastructure vers le CLOUD Felcloud est l'entreprise de Cloud Computing Made in Tunisia. C'est une plateforme de Cloud Computing qui permet aux entreprises d'allouer dynamiquement des ressources informatiques. FelCloud Propose des prix défiant toute concurrence avec un modèle «pay as you go» à la seconde.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR FR EN EN BUS SOFTWARE",
-    "website": "winicari.tn",
-    "description": "Bus software développer une nouvelle méthode de transport intelligent qui se base sur la billetterie à bord des bus et la numérisation de tout le processus d’exploitation depuis la planiﬁcation à l’information en temps réel des voyageurs. Notre mission est de rendre le sourire aux utilisateurs du transport public.",
-    "secteur": "Mobility winicari",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "SEPTEMBER 2022 C CREOMETRY",
+    "nom": "CREOMETRY",
     "website": "creometry.com",
-    "description": "Creometry offre un service d’hébergement cloud et edge pour les applications a base de conteneurs.",
-    "secteur": "Business Software and services creometry",
+    "description": "Creometry offre un service d’hébergement cloud et edge pour les applications a base de conteneurs. Creometry automatise le déploiment et la gestion des application avec des technique sur le Cloud et le Edge. Les plateformes modernes sans serveur et Edge computing garantissent la fiabilité des systèmes et ouvrent de nouveaux cas d'utilisation dans tous les secteurs.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR EN CURE BIONICS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "CURE BIONICS",
+    "website": null,
+    "description": "Cure Bionics fait la conception, le développement et la fabrication par impression 3D de prothèses bioniques (myoélectriques), avec une esthétique personnalisée sur mesure, pour les adultes et les enfants amputés de membre supérieur âgés de 6 ans+, à des prix abordables. Nos prothèses sont faites par impression 3D, les algorithmes sont doté de l'IA, le corps de la prothèse est auto-ajustable. Prothèses bioniques personnalisable, ajustables et paramétrées pour une fabrication additive rapide et décentralisée.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "CYNOIA",
-    "website": "sleekbio.com",
-    "description": "Cure Bionics fait la conception, le développement et la fabrication par impression 3D de prothèses bioniques (myoélectriques), avec une esthétique personnalisée sur mesure, pour les adultes et les enfants amputés de membre supérieur âgés de 6 ans+, à des prix abordables.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Business Software and services sleekbio",
+    "website": "https://cynoia.com",
+    "description": "Cynoia est une solution SaaS pour les b2b qui centralise tous les flux de communication et de workflows en une seule et unique interface. Cynoia est une application web et une application mobile totalement synchronisées sur le cloud, avec une composante d’IA. L’originalité du projet consiste au faite de résoudre un problème journalier des b2b, jusqu’à la résolution définitive.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -134,59 +142,59 @@
     ]
   },
   {
-    "nom": "SEPTEMBER 2022 D D-WEE",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "D-WEE",
+    "website": null,
+    "description": "D-WEE Healthcare est une startup spécialisée dans la fabrication des dispositifs médicaux innovants. La Startup conçoit et fabrique différents types de dispositifs médicaux et paramédicaux, grâce au savoir-faire de l’équipe en mécanique, en développement des systèmes électroniques embarqués et IoT et en prototypage. D-WEE intègre l'IoT dans ses produit et elle travaille sur le développement d'un appareil de respiration connecté. D-WEE est la première à l’échelle nationale qui est spécialisée dans la fabrication des dispositifs médicaux.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "DABCHY",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": null,
+    "description": "Dabchy.com est une marketplace de la mode qui permet aux femmes de renouveler leur garde-robe en ligne et en toute sécurité. - Originalité",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
     "nom": "DEEPIC",
-    "website": "linkedin.com",
-    "description": "D-WEE Healthcare est une startup spécialisée dans la fabrication des dispositifs médicaux innovants. La Startup conçoit et fabrique différents types de dispositifs médicaux et paramédicaux, grâce au savoir-faire de l’équipe en mécanique, en développement des systèmes électroniques embarqués et IoT et en prototypage.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Commerce and shopping Secteur d’activité / Sector : HealthTech linkedin",
+    "website": "deepic-health.com",
+    "description": "Notre projet consiste à développer une plateforme basée sur l’Intelligence Artificielle (IA) pour accélérer le diagnostic et aider le médecin dans la prise de décision sur le traitement des maladies neurologiques. Notre solution se base sur des outils avancés de l’intelligence artificielle tels que les architectures de Deep Learning. Notre solution offre des fonctionnalités avancées pour le suivi de la maladie (localisation, dénombrement des lésions).",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 D DIGI SMART SOLUTIONS",
-    "website": "",
-    "description": "",
-    "secteur": "",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "DOMHOME",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "DIGI SMART SOLUTIONS",
+    "website": "dig2s.com",
+    "description": "un box hardware IoT et une plateforme Cloud pour la gestion en temps réel de la qualité des eaux. un Software as a Service (Saas) Cloud avec un box muni de la technologie IoT avec LORA/ GPRS/WIFI. projet breveté en 2022.",
+    "secteur": "Environment; Advanced Manufacturing & Robotics",
     "source": "tunisie_pdf"
   },
   {
     "nom": "DIGITALIZE",
-    "website": "dig2s.com",
-    "description": "un box hardware IoT et une plateforme Cloud pour la gestion en temps réel de la qualité des eaux.",
-    "secteur": "Environment; Advanced Manufacturing & Robotics Secteur d’activité / Sector : Advanced Manufacturing & Robotics Secteur d’activité / Sector : Business Software and services dig2s",
+    "website": "digitalize.tn",
+    "description": "Notre portail met en relation les chercheurs d'emploi en IT et les entreprises cherchant des profils IT tout en minimisant au maximum les risques d'échec à travers des tests et des quiz techniques ainsi que des tests psychométriques. Les candidats s'enregistrent sur le portail, ils peuvent créer leur CVs en étant guidés pas à pas et ensuite ils peuvent passer n'importe quel test technique disponible sur le portail, un score leur sera attribué et ils peuvent le partager sur les réseaux sociaux ce qui aidera à créer une sorte de compétition entre les candidats. Ils peuvent aussi voir les offres d'emploi et postuler tout en passant les tests exigés par l'entreprise. Notre portail automatise tout le processus de recrutement dans le secteur IT. La base de données bien structurée permet de notifier tous les profils adéquats à un poste proposé dès qu'une opportunité leur correspondant est mise en ligne, ceci augmente les chances de succès du processus de recrutement. L'association entre tests techniques et psychométriques avec l'aide d'algorithmes d'IA et de matching transforme le portail en un vrai head hunter qui vous trouvera le profil idéal que vous cherchez pour combler un poste vacant.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 D DONEC",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "DOMHOME",
+    "website": "domhome.tn",
+    "description": "DomHome conçoit et fabrique des interrupteurs tactiles intelligents pour des bâtiments connectés. Notre système est basé sur l'intelligence artificielle et la technologie de l'Internet des objets (IOT). Domhome combine entre les nouvelles technologies et la simplicité pour donner un système domotique qui facilite la vie.",
+    "secteur": "Advanced Manufacturing & Robotics",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "DONEC",
+    "website": "dig2s.com",
+    "description": "Nous proposons aux sociétés de commerce de toutes tailles (Boutique, GMS, etc.) une solution de vente en ligne clé en main en mode SaaS. La solution est en développement et amélioration continue. Du point de vue technique, elle est développée sur les technologies les plus performantes actuellement et selon des standards internationaux. De telles solutions existent; nous citons Shopify comme exemple qui offre aux commerçants la possibilité de préparer un site et commencer à vendre au bout de quelques heures. Dans notre cas, le temps de mise en marche est de 1 à 2 semaines, cependant grâce à cette approche, nous ne compromettons pas la performance du site final.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "DRACOSS",
-    "website": "https://www.dracosss.com",
-    "description": "La fabrication de machine à recycler les eaux usées pour les restaurants, les hôtels et les salles de sport afin qu'ils puissent réduire leur consommation d'eau",
-    "secteur": "watertech / greentech",
+    "website": "dracosss.com",
+    "description": "La pénurie d'eau est une menace pour l'existence des restaurants, elle affecte le parcours des restaurants en augmentant les prix des aliments, les factures d'eau deviennent onéreuses. Dracoss fabrique des machines permettant aux restaurants de recycler les eaux usées afin de réduire leur consommation d'eau. Dracoss est une combinaison d'un système innovant de traitement des eaux usées et d'un système IoT intégré. Lorsque le fondateur Amen Allah a visité Bni Mtir, il a imaginé une vaporisation totale de la cascade.",
+    "secteur": "Environment",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -195,9 +203,9 @@
   },
   {
     "nom": "DRILLSERV",
-    "website": "dig2s.com",
-    "description": "Nous proposons aux sociétés de commerce de toutes tailles (Boutique, GMS, etc.) une solution de vente en ligne clé en main en mode SaaS.",
-    "secteur": "Business Software and services Secteur d’activité / Sector : Environment Secteur d’activité / Sector : Agritech dig2s",
+    "website": "drillserv-tunisia.com.tn",
+    "description": "DrillSERV développe une solution technologique nommé 'ILMA' qui est une application mobile connectée à des capteurs installées au niveau des puits pour suivre en temps réels les nappes d'eau afin de décider sur le mode de l'exploitation et la gestion des ressources en eaux souterraines. ILMA solution de DrillSERV est basée sur la valorisation des données des nappes (Big Data) et l'Internet des objet. Notre solution est unique en région MENA qui est basée sur la TIC pour résoudre le problème de l'épuisement des nappes.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -205,80 +213,80 @@
     ]
   },
   {
-    "nom": "SEPTEMBER 2022 E ELASTIC SOLUTIONS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "ELASTIC SOLUTIONS",
+    "website": "elastic-solutions.com",
+    "description": "Nous proposons une suite de plateformes (Web, mobile, IoT, AI, BigData) pour l'agriculture 3.0 et l'industrie 4.0. Nous travaillant sur le monitoring et l'analyse comportementale en utilisant l'IA. l'analyse comportementale en utilisant l'IA.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "ENOVA ROBOTICS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": null,
+    "description": "Enova Robotics conçoit, fabrique et commercialise des robots mobiles pour les secteurs de la sécurité, de la santé et de la logistique. - Originalité",
+    "secteur": "Advanced Manufacturing & Robotics",
     "source": "tunisie_pdf"
   },
   {
     "nom": "ESKY PROFESSIONAL SERVICES LIMITED",
-    "website": "elastic-solutions.com",
-    "description": "Nous proposons une suite de plateformes (Web, mobile, IoT, AI, BigData) pour l'agriculture 3.0 et l'industrie 4.0.",
-    "secteur": "Agritech Secteur d’activité / Sector : Advanced Manufacturing & Robotics Secteur d’activité / Sector : Mobility; Business Software and services; elastic-solutions",
+    "website": "fulfillmentbridge.com",
+    "description": "Fulfillment Bridge est une plateforme de logistique pour la gestion des stocks (warehousing, shipping, return management, etc.. Cette entreprise est basée à Hong Kong. - Originalité",
+    "secteur": "Mobility; Business Software and services;",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 EF EVADAM TECHNOLOGY",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "EVADAM TECHNOLOGY",
+    "website": "evadam.io",
+    "description": "Evadam est une startup B2B Regtech qui lutte contre la fraude sur le web et le blanchiment d’argent en assurant un niveau avancé de sécurité des données. Labellisé par le ministère des technologies de la communication en 2021 sous le code de GR8PJPRD. Le premier produit de Evadam est un software nommé «ZTrust» un outil d’authentification d’utilisateurs en ligne (Onboarding E-KYC) basé sur l’intelligence artificielle. Un service à vigilance renforcée qui consiste à vérifier et extraire les données des documents (CIN, permis de conduire, passeport) analyse biométrique et teste de vivacité sur le visage de l'utilisateur, finalement un reporting immédiat avec un score seulement en 60 seconds. ZTrust est basée sur l'intelligence artificielle avec 90.% d'automatisation où seulement 10.% des cas secondaires sont traités par des responsables de la conformité, avec un taux de réussite de 97.%, Assistance 7/24 et intégration transparente dans n'importe quel environnement commercial. ZTrust est le premier eKYC dans le moyen-orient qui traite les documents en Arabe et le premier eKYC Tunisien «Legal» validé par le INPDP.",
+    "secteur": "Autre",
     "source": "tunisie_pdf"
   },
   {
     "nom": "FENIX",
-    "website": "evadam.io",
-    "description": "Evadam est une startup B2B Regtech qui lutte contre la fraude sur le web et le blanchiment d’argent en assurant un niveau avancé de sécurité des données. Labellisé par le ministère des technologies de la communication en 2021 sous le code de GR8PJPRD. Le premier produit de Evadam est un software nommé «ZTrust» un outil d’authentiﬁcation d’utilisateurs en ligne (Onboarding E-KYC) basé sur l’intelligence artiﬁcielle. Un service à vigilance renforcée qui consiste à vériﬁer et extraire les données des documents (CIN, permis de conduire, passeport) analyse biométrique et teste de vivacité sur le visage de l'utilisateur, ﬁnalement un reporting immédiat avec un score seulement en 60 seconds.",
-    "secteur": "Autre Secteur d’activité / Sector : Business Software and services evadam",
+    "website": "thefenix.io",
+    "description": "Nous avons développé une application SAAS B2B de gestion commerciale hébergée 100.% sur le Cloud. Fenix Saas permet aux entreprises de contrôler leurs stocks et leurs commandes multi-canaux en temps réel et ainsi optimiser leurs ventes. Notre mission est d'amener l'inventaire hors ligne à l'ère du digital. Fenix Saas est une solution de gestion commerciale et facturation en mode Saas hébérgée 100.% sur le Cloud. Fenix connecte tous les canaux de vente en ligne et hors ligne et les transporteurs sur une seule plateforme centralisée.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 F FIDNESS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "FIDNESS",
+    "website": "fidness.net",
+    "description": "Fidness est la première application permettant aux consommateurs d'ajouter leurs cartes de fidélité dans leurs smartphones pour en faire un portefeuille numérique mobile. Solutions drive-to-store (basée sur IA) : Fidness peut tracker les visites et les achats depuis le premier clic. La publicité devient plus ciblée, plus proche, efficace et mesurable et améliorer l’approche B to C.",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
     "nom": "FIVE CONSULTING",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "five-consulting.com",
+    "description": "International Five Consulting est une société de services numériques et éditeur de produits innovants. International Five Consulting est spécialisée dans les domaines suivants :SI, DATA : Business Intelligence et Big Data, DIGITAL : Transformation Digitale, Training center : Formation certifiante Orientée business. Accompagner les entreprises dans la Transformation Digitale en fournissant des solutions IT fiables. Accompagner les entreprises dans la Transformation Digitale en fournissant des solutions IT fiables.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "FOOD FOR FUTURE",
-    "website": "dness.net",
-    "description": "Fidness est la première application permettant aux consommateurs d'ajouter leurs cartes de ﬁdélité dans leurs smartphones pour en faire un portefeuille numérique mobile.",
-    "secteur": "Commerce and shopping Secteur d’activité / Sector : Business Software and services Secteur d’activité / Sector : FoodTech & New Food ﬁdness",
+    "website": null,
+    "description": "F4F développe des machines de production de spiruline fraiche à domicile. Ils s'agit de photo-bioréacteurs connectés à une plateforme IoT, couplé à un système automatique de récolte et de nettoyage de la machine. Nous proposons une nouvelle expérience culinaire avec la Spiruline.",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 G GALACTECH",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "GALACTECH",
+    "website": "galactechstudio.com",
+    "description": "Galactech offre aux opérateurs mobiles une variété de services à valeur ajoutée de haute qualité et des contenus riches et variés. - Originalité",
+    "secteur": "Ad Tech and Creative Tech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "GO MYBIZ",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "gomybiz.co",
+    "description": "Notre projet consiste à offrir aux PME/TPE une suite de logiciels modulaires et simple d’utilisation qui va leur permettre de gérer au mieux leurs relations clients. Toute la suite logiciel que nous proposons est en full Cloud et se présente sous forme de modules indépendants. La suite que nous proposons est développée avec des technologies web de dernière génération et elles sont 100.% en Cloud. Vous pouvez y accéder depuis votre interface web ou bien depuis votre smartphone. Il s’agit d’une suite modulaire découpée d’une manière bien structurée pour assurer des fonctions différentes mais complémentaires. Tous les modules sont interconnectés d’une manière native pour assurer la transversalité de l’information client quel que soit le point de contact avec la possibilité d’évoluer par module selon son rythme de croissance et de maturité. Vous ne ratez plus aucune interaction avec vos clients et prospect.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "GOMYCODE",
-    "website": "galactechstudio.com",
-    "description": "Galactech offre aux opérateurs mobiles une variété de services à valeur ajoutée de haute qualité et des contenus riches et variés.",
-    "secteur": "Ad Tech and Creative Tech Secteur d’activité / Sector : Business Software and services Secteur d’activité / Sector : EdTech galactechstudio",
+    "website": null,
+    "description": "GoMyCode se veut une plateforme éducative panafricaine qui rassemble les meilleurs talents technologiques de la région, les forme aux nouvelles technologies et les met en relation avec des projets numériques dans le monde entier. - Originalité",
+    "secteur": "EdTech",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "goafricaonline",
@@ -286,38 +294,38 @@
     ]
   },
   {
-    "nom": "SEPTEMBER 2022 HI HARRO MEA",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "HARRO MEA",
+    "website": null,
+    "description": "HAARO MEA est un fournisseur d'équipement pour les industries pharmaceutiques ainsi que la solution clés en main. Des équipements avec technologie innovante pour les lignes de production des produits pharmaceutiques. projet d'originalité Allemande.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "HYO-TEC",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "hyo-tec.com",
+    "description": "Conception, fabrication et vente des électrolyseurs; Conception, fabrication et vente des machines génératrices d’oxygène et d’hydrogène; Conception, fabrication et vente des piles à combustibles; Conception, fabrication et vente des solutions de stockage d’énergie renouvelable; Service d’installation, assistance, formation, et conception personnalisée des systèmes de production et conversion d’hydrogène et oxygène. Il s’agit de concevoir, fabriquer et vendre toute les composants des systèmes de conversion d’énergie (et énergies renouvelables) par l’intermédiaire de la production et l’exploitation de l’hydrogène (et l’hydrogène vert) et de l’oxygène. Production et stockage de l'hydrogène vert pour usage industriel et médical.",
+    "secteur": "Advanced Manufacturing & Robotics",
     "source": "tunisie_pdf"
   },
   {
     "nom": "I BEY DISTRIBUTION",
-    "website": "hyo-tec.com",
-    "description": "HAARO MEA est un fournisseur d'équipement pour les industries pharmaceutiques ainsi que la solution clés en main.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Advanced Manufacturing & Robotics Secteur d’activité / Sector : Commerce and shopping - hyo-tec",
+    "website": "mymall.tn",
+    "description": "Plateforme de ventes privées: ventes flash de grandes marques réservées à la communauté inscrite sur la plateforme / Partenaire des marques en vente et marketing. site internet e-commerce sur Prestashop. Ventes privées, un concept nouveau en Tunisie: réservées à la communauté et ne durent que quelques jours.",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 I IDARATY",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "IDARATY",
+    "website": "idaraty.tn",
+    "description": "Idaraty est la plateforme qui facilite la relation entre les citoyens et les institutions publiques en Tunisie. Idaraty développe des solutions basées sur l'intelligence artificielle, gestion de la connaissance et l'optimisation des processus pour organiser des millions d'informations administratives publiques et les mettre à disposition des citoyens. Idaraty recense des millions de données administratives actualisées et aide plus de 1.5 millions de Tunisiennes et Tunisiens à trouver leurs chemin dans la complexité administratives.",
+    "secteur": "Communication services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "INDUSTRY X.O",
-    "website": "https://industryx0.pro",
-    "description": "Application mobiles et web adaptables aux besoins, assurant l'amélioration continue du processus de production et stimulant les performances de l'équipe et l'entreprise.",
-    "secteur": "industry 4.0",
+    "website": "industryx0.pro",
+    "description": "Inspiré par la vie d'ingénieurs lean manufacturing et qualité, Industry X.0 a créé une voie numérique pour les opérations industrielles avec une solution solide, le CIP AUDIT. Le système entièrement intégré et le plus complet numérise et centralise les processus d'amélioration continue directement depuis l'atelier. Notre plateforme est équipée d'applications web et mobile et d'une intelligence artificielle adapté aux industriels. la coexistence Human & AI et la collaboration dans la résolution d'anomalies sont les enjeux de demain pour l'industrie.",
+    "secteur": "Advanced Manufacturing & Robotics",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -326,23 +334,23 @@
   },
   {
     "nom": "INFINITE MOBILITY",
-    "website": "idaraty.tn",
-    "description": "Idaraty est la plateforme qui facilite la relation entre les citoyens et les institutions publiques en Tunisie.",
-    "secteur": "Communication services Secteur d’activité / Sector : Advanced Manufacturing & Robotics Secteur d’activité / Sector : Mobility idaraty",
+    "website": "infinite-m.com",
+    "description": "ActivitéNous développons des solutions de mobilité alimentées par l'énergie solaire. Un véhicule solaire est le processus d'intégration de cellules solaires dans le corps du véhicule. Lorsqu'elles sont exposées au rayonnement solaire, ces cellules produisent de l'électricité et la stockent dans des batteries embarquées. Nous avons développé une technologie solaire en forme 3D parfaites pour l'industrie automobile. Notre technologie solaire unique et le design premium de nos véhicules.",
+    "secteur": "Mobility",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 I INNOVUP",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "INNOVUP",
+    "website": "innovup.com.tn",
+    "description": "INNOVUP est une startup Tunisienne spécialisée dans le développement d’applications Web et mobile et la création de produits innovants IOT. Nous avons développé des applications pour les facultés et les institutions universitaires pour faciliter leurs travaux et d'autres produits intelligents pour le secteur transport. Nous développons le Web avec Symfony, React, NodeJS et le système embarqué avec Python. Notre produit du transport public intelligent qui est unique en Afrique.",
+    "secteur": "Fintech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "INSTADEEP",
-    "website": "",
-    "description": "InstaDeep propose des systèmes de prise de décision basés sur l'IA pour les entreprises. Grâce à notre expertise en matière de recherche sur l'intelligence artificielle et de déploiements commerciaux concrets, nous offrons un avantage concurrentiel à nos clients dans un monde axé sur l'IA.",
-    "secteur": "Startup",
+    "website": "instadeep.com",
+    "description": "InstaDeep propose des solutions d'IA pour l'entreprise et des produits d'aide à la décision en IA pour plusieurs secteurs tels que la logistique et la mobilité. - Originalité",
+    "secteur": "Business Software & services",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "goafricaonline",
@@ -351,30 +359,30 @@
   },
   {
     "nom": "INTIGROW",
-    "website": "innovup.com",
-    "description": "INNOVUP est une startup Tunisienne spécialisée dans le développement d’applications Web et mobile et la création de produits innovants IOT. Nous avons développé des applications pour les facultés et les institutions universitaires pour faciliter leurs travaux et d'autres produits intelligents pour le secteur transport.",
-    "secteur": "Fintech Secteur d’activité / Sector : Business Software & services Secteur d’activité / Sector : Mobility innovup",
+    "website": "intigo.tn",
+    "description": "Intigrow est une plateforme numérique offrant des services de mobilité, de logistique et de m-paiement. - Originalité",
+    "secteur": "Mobility",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 IK IRBE7A",
+    "nom": "IRBE7A",
     "website": "irbe7.com",
-    "description": "Nous construisons une plateforme all in one qui permet à la nouvelle génération d'investisseurs particuliers d'avoir accès à du contenu et une information de qualité, aux meilleurs coachs / formateurs, à une communauté de pratique et aux outils techniques d'aides à la décision.",
-    "secteur": "EdTech irbe7",
+    "description": "Nous construisons une plateforme all in one qui permet à la nouvelle génération d'investisseurs particuliers d'avoir accès à du contenu et une information de qualité, aux meilleurs coachs / formateurs, à une communauté de pratique et aux outils techniques d'aides à la décision. Pour une meilleure scalabilité, on a choisi des microservices côté Backend spring boot et mongodb, Angular coté front. Nous créons tout un écosystème pour une meilleure inclusion financière des individus.",
+    "secteur": "EdTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR EN IRRIAPP",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "IRRIAPP",
+    "website": "irriapp.tn",
+    "description": "IRRIAPP est une startup spécialisée dans l'Internet des objets qui a l'objectif de réduire le gaspillage d'eau utilisé par les agriculteurs.Notre plateforme vous aide à avoir un controle à distance qui donne des informations liée à la ferme grâce aux capteurs de température-humidité sol et à l'intelligence artificielle. Notre société fournit aux agriculteurs une plateforme avec contrôle à distance, capteur sol et l’intelligence artificielle. nous offrons à nos clients une sécurité élevée et nous utilisons les dernières technologies.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "KAMIOUN",
-    "website": "irriapp.tn",
-    "description": "IRRIAPP est une startup spécialisée dans l'Internet des objets qui a l'objectif de réduire le gaspillage d'eau utilisé par les agriculteurs.Notre plateforme vous aide à avoir un controle à distance qui donne des informations liée à la ferme grâce aux capteurs de température-humidité sol et à l'intelligence artiﬁcielle.",
-    "secteur": "Agritech Secteur d’activité / Sector : Autre; B2B Retail irriapp",
+    "website": "kamioun.com",
+    "description": "Kamioun est une plateforme de commerce électronique B2B qui permet aux détaillants d'acheter des stocks pour leurs magasins de manière simple et efficace. Kamioun est la première entreprise en Tunisie à numériser les opérations des magasins de proximité. Notre plateforme est une application mobile disponible sur Google Playstore pour android avec IoS bientôt disponible. Nous sommes la première technologie de ce type en Tunisie, dans un secteur encore largement analogique.",
+    "secteur": "Autre; B2B Retail",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -382,38 +390,45 @@
     ]
   },
   {
-    "nom": "KLINK.BOOKING",
+    "nom": "KEEPLYNA (TOBBA.TN)",
     "website": "tobba.tn",
-    "description": "Plateforme de télémédecine offrant pour les patients: un parcours de téléconsultations médicales avec médecins; un parcours pour la thérapie à distance par des professionnels de santé; un parcours pour les analyses médicales à domicile; un parcours pour la consultation avec des vétérinaires.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Autre; Industrie créative tobba",
+    "description": "Plateforme de télémédecine offrant pour les patients: un parcours de téléconsultations médicales avec médecins; un parcours pour la thérapie à distance par des professionnels de santé; un parcours pour les analyses médicales à domicile; un parcours pour la consultation avec des vétérinaires. On se positionne sur la problématique de l'accès limité aux médecins et surtout aux spécialistes. Nous favorisons la création d'emplois partout en Afrique et les professionnels de santé peuvent lancer leurs projets.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR FR EN EN KOTTI ONLINE DISTRIBUTION",
+    "nom": "KLINK.BOOKING",
+    "website": "klink.tn",
+    "description": "Klink est une plateforme de booking, de production d'artistes et de projets culturels dans les arts du spectacle. Klink.tn est une plateforme de booking d'artistes en ligne. valoriser de démocratiser les métiers artistiques.",
+    "secteur": "Autre; Industrie créative",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "KOTTI ONLINE DISTRIBUTION",
     "website": "chillandlit.tn",
-    "description": "Chill&Lit est une Startup spécialisée dans la Fashion Tech, c'est une marketplace 100.% dédiée à la mode, qui met en relation des milliers de consommateurs avec des vendeurs, boutiques, ateliers, artisans et créateurs de mode pour les aider à liquider leur stock et leur faciliter la vente en ligne de leurs produits.",
-    "secteur": "Commerce and shopping chillandlit",
+    "description": "Chill&Lit est une Startup spécialisée dans la Fashion Tech, c'est une marketplace 100.% dédiée à la mode, qui met en relation des milliers de consommateurs avec des vendeurs, boutiques, ateliers, artisans et créateurs de mode pour les aider à liquider leur stock et leur faciliter la vente en ligne de leurs produits. Une Marketplace qui met en relation les vendeurs de mode avec des milliers de consommateurs. Chaque vendeur a son propre Dashboard intelligent qui lui permet de gérer ses ventes, produits, statistiques et l'aide à prendre des décisions plus facilement. C'est une marketplace 100.% Mode leader en Tunisie. Chaque Vendeur a accès à plusieurs services comme le shooting produit, l'accompagnement pour fixer les prix de ses produits, le consommateur peut aussi discuter via la plateforme avec le vendeur, un Dashboard Intelligent pour chaque vendeur.",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 K KTN TRAFFIC",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "KTN TRAFFIC",
+    "website": null,
+    "description": "Ktn Traffic est un système d’encaissement numérique par scan de QR codes et de mise en contact entre passagers et chauffeurs, installé dans les moyens de transports publics (taxi collectif, transport rural). Paiement numérique et mise en contact à distance. Paiement numérique et mise en contact à distance.",
+    "secteur": "Mobility",
     "source": "tunisie_pdf"
   },
   {
     "nom": "KUMULUS TUNISIA",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "kumuluswater.com",
+    "description": "Les machines Kumulus ont la taille d'un mini- frigo et produisent 20 à 30 litres d'eau potable par jour. - Originalité",
+    "secteur": "Environment",
     "source": "tunisie_pdf"
   },
   {
     "nom": "K2LIS",
-    "website": "facebook.com",
-    "description": "Ktn Traffic est un système d’encaissement numérique par scan de QR codes et de mise en contact entre passagers et chauffeurs, installé dans les moyens de transports publics (taxi collectif, transport rural).",
-    "secteur": "Mobility Secteur d’activité / Sector : Environment Secteur d’activité / Sector : Fintech facebook",
+    "website": "k2lis.com",
+    "description": "K2LIS est une startup fintech spécialisée dans les solutions de finance digitale inclusive et les technologies Blockchain. Blockchain, application mobile, application web. Technologie Blockchain.",
+    "secteur": "Fintech",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -421,192 +436,210 @@
     ]
   },
   {
-    "nom": "SEPTEMBER 2022 L LABORATOIRE LASER AFRIQUE",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "LABORATOIRE LASER AFRIQUE",
+    "website": "laboratoirelaser.com",
+    "description": "Nous développons des solutions photoniques pour l'agriculture. Notre produit principal est un outil de gestion d'irrigation pour prévention de sous ou sur irrigation. Par un capteur imagerie laser, nous suivons le besoin d'eau dans un champs en temps réel. Outre cela, le capteur signale la santé générale des plantes. Nous utilisons la lumière et l'imagerie. La stabilisation du capteur et l'alignement des faisceaux sont les principaux défis techniques. Nous mesurons une moyenne dans un champs entier en temps réel au lieu de mesurer localement.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "LAIT ESPOIR",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "laitespoir.com",
+    "description": "Lait Espoir est une startup dédiée à la création de solution informatique sous forme d'application mobile qui servira à aider l'agriculteur à gérer ses vaches. Notre toute première solution est SMARTFARM l'application mobile qui joue le rôle d'un expert réalisant des analyses et fournissant des conseils à l'éleveur. Une application pour la détection précoce des maladies chez les vaches et système de gestion du troupeau et alimentation. Détection précoce des maladies chez les vaches à travers l'analyse des photos de la vache avec de l'intelligence artificielle.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "LINKIVIA",
-    "website": "laboratoirelaser.com",
-    "description": "Nous développons des solutions photoniques pour l'agriculture. Notre produit principal est un outil de gestion d'irrigation pour prévention de sous ou sur irrigation. Par un capteur imagerie laser, nous suivons le besoin d'eau dans un champs en temps réel. Outre cela, le capteur signale la santé générale des plantes.",
-    "secteur": "Agritech Secteur d’activité / Sector : Agritech Secteur d’activité / Sector : Linkivia laboratoirelaser",
+    "website": "linkivia.com",
+    "description": "Linkivia met en relation les laboratoires de biologie médicale dans une plateforme web multi face afin de développer et digitaliser un réseau d’échange professionnel leur permettant de maximiser leurs productivité et d’optimiser leurs coûts via des outils technologiques. Une plateforme web de mise en relation en mode SAAS; Utilisation des capteurs IOT pour la traçabilité en temps réel. créer un réseau d'échange inter-labo avec des processus automatisés et des outils digitaux.",
+    "secteur": "Linkivia",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 L LIPONOV",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "LIPONOV",
+    "website": null,
+    "description": "Le projet consiste à développer un biomédicament anti-obésité présentant un principe actif naturel innovant. Ce dernier est un inhibiteur de lipases digestives issu de la biodiversité végétale. Traitement pharmacologique : diminution de l’absorption intestinale des lipides via l'inhibition des lipases digestives. Notre solution présente un principe actif naturel innovant et différent de ceux qui sont commercialisés sur le marché.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "LOXBOX SERVICES",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "loxbox.tn",
+    "description": "LoxBox propose des solutions innovantes basées sur la technologie : nous avons développé une plateforme nous permettant de gérer un réseau de points relais & consignes e-Relais. Nos consignes e-Relais sont le produit phare de LoxBox Services ; nous avons développé localement avec des compétences tunisiennes. Notre e-Relais est opérationnel grâce à son système embarqué, son application dédiée et notre plateforme web LinX. Visant l'automatisation du LastMile,LoxBox a mis en place une plateforme qui permet la gestion des étapes de livraison.",
+    "secteur": "Mobility",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 M M ESANTE PLUS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "L6A",
+    "website": "supplytensor.com",
+    "description": "Gestion de stock automatique pour les PME. Notre produit SupplyTensor est un service SaaS qui gère l'inventaire physique et l'approvisionnement pour les petites entreprises et leurs fait éviter les ruptures de stock et le surstockage. Terminaux Mobiles avec lecteur code- barres /qr-code connectés a notre plateforme sur internet par 3G et Wifi. Les PMEs ne savent pas gèrer leurs stock. Alors nous avons créé un Pilote Automatique pour la gestion de stock des PMEs.",
+    "secteur": "Mobility",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "M ESANTE PLUS",
+    "website": "doqtoor.com",
+    "description": "M eSANTE PLUS est une plateforme de télémédecine doqtoor.com qui a démarré le télé conseil gratuit en avril 2020 et a développé la téléconsultation avec des médecins disponible instantanément sans RDV. le télé coaching a été mis en place avec des coachs et paramédicaux pour prévenir les maladies. Dans le cadre de la RSE des entreprises et avec la publication du décret d'application de la télémédecine en avril 2022, on a démarré la commercialisation des packages avec notre 1er client une assurance internationale qui dispose d'un million d'Adhérents Africains qui peuvent se soigner à distance via doqtoor. la plateforme est développé en full stack avec les nouvelles technologies de sécurité et de protection des données des patients. la plateforme dispose de médecins et coachs disponibles en instantané sans RDV pour couvrir les zones de désert médicaux en Tunisie et en Afrique par le diagnostic et le préventif.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "METHANIA",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "methania.com",
+    "description": "Methania est spécialisée dans la conception, industrialisation, fabrication et installation des solutions de micro méthanisation et micro cogénération,ingénierie et construction des installations clé en main de Méthanisation. - Originalité",
+    "secteur": "Environment",
     "source": "tunisie_pdf"
   },
   {
     "nom": "MICROACESS",
-    "website": "doqtoor.com",
-    "description": "M eSANTE PLUS est une plateforme de télémédecine doqtoor.com qui a démarré le télé conseil gratuit en avril 2020 et a développé la téléconsultation avec des médecins disponible instantanément sans RDV. le télé coaching a été mis en place avec des coachs et paramédicaux pour prévenir les maladies. Dans le cadre de la RSE des entreprises et avec la publication du décret d'application de la télémédecine en avril 2022, on a démarré la commercialisation des packages avec notre 1er client une assurance internationale qui dispose d'un million d'Adhérents Africains qui peuvent se soigner à distance via doqtoor.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Environment Secteur d’activité / Sector : Business Software and services doqtoor",
+    "website": "microacess.com",
+    "description": "Application de transport (comme uber) avec de nouvelles options. - application de transport qui fait la mise en relations entre les chauffeurs et les clients.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 M MILLENIA ENGINEERING",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "MILLENIA ENGINEERING",
+    "website": "millenia.com.tn",
+    "description": "TIC pour l'industrie EPC (Engineering, Procurement & Construction), spécialité communication industrielle particulièrement secteur énergie. LPWAN (LORA), réseaux industriel Wireless ou câblés et équipements DNE correspondants. Adaptation des technologies réseaux IT aux contextes industriels.",
+    "secteur": "Communication services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "MOOME",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": null,
+    "description": "MooMe est une startup opérant dans le domaine de l'AgriTech qui envisage de combler les besoins en données entre les acteurs de l'écosystème laitier via ses deux solutions MooMe Farmers et MooMe Business. MooMe est une plateforme Cloud rassemblant les intervenants de l'écosystème laitier (Production/Collecte/Transformation). MooMe permet l'agrégation d'un dataset unique afin de réaliser des prédicitions pour les acteurs de l'écosystème laitier.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "MRAMMA TN",
-    "website": "millenia.com",
-    "description": "TIC pour l'industrie EPC (Engineering, Procurement & Construction), spécialité communication industrielle particulièrement secteur énergie.",
-    "secteur": "Communication services Secteur d’activité / Sector : Agritech Secteur d’activité / Sector : Real Estate Tech millenia",
+    "website": "mramma.tn",
+    "description": "Mramma innove en donnant un canal unique d'échange, de notoriété et de marketing ciblé entre tous les intervenants du btp marque fournisseur donneur d'ordre et consommateur. plateforme web drupal annuaire; plateforme web prestashop marketplace; Plateforme mern demande de devis. mramma permet de gagner en visibilité : publicité locale, création de devis, communication client.",
+    "secteur": "Real Estate Tech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 NO NEXTAV",
-    "website": "",
-    "description": "",
-    "secteur": "",
-    "source": "tunisie_pdf"
+    "nom": "NEXTAV",
+    "website": "nextav.ai",
+    "description": "NextAV offre un service de télédétection spatiale et aéroporté assisté par Intelligence artificielle. Nos clients peuvent ainsi optimiser la planification et l'exploitation de leur actifs étendus (réseaux de distribution d'électricité, pipelines, sites miniers...), et détecter de manière préventive les anomalies. Nous analysons l'imagerie satellite et aéroportée et intégrons des solutions géospatiales d'IA dans votre business. Nous offrons une intelligence artificielle perspicace pour nos clients à partir du ciel, s'adaptant aux défis croissants.",
+    "secteur": "Autre; Télédétection spatiale et aéroportée assistée par Intelligence Artificielle",
+    "source": "tunisie_pdf",
+    "sources_contributrices": [
+      "thedot",
+      "tunisie_pdf"
+    ]
   },
   {
     "nom": "NEXT PROTEIN",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "nextprotein.co",
+    "description": "NextProtein produit une protéine à base d'insectes pour les matières premières animales dans le but d'accélérer l'agriculture durable et de lutter contre la pénurie de ressources. - Originalité",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
     "nom": "OPTIMALOGISTIC SA",
-    "website": "nextprotein.co",
-    "description": "NextAV offre un service de télédétection spatiale et aéroporté assisté par Intelligence artiﬁcielle. Nos clients peuvent ainsi optimiser la planiﬁcation et l'exploitation de leur actifs étendus (réseaux de distribution d'électricité, pipelines, sites miniers...), et détecter de manière préventive les anomalies.",
-    "secteur": "Autre; Télédétection spatiale et aéroportée assistée par Intelligence Artiﬁcielle Secteur d’activité / Sector : FoodTech & New Food Secteur d’activité / Sector : Mobility nextav",
+    "website": "optimalogistic.com",
+    "description": "La façon traditionnelle de réserver un camion et de gérer ses livraisons est inefficace en terme de temps et de coût. OptimaLogistic offre aux entreprises les meilleures options de transport, via une bourse de fret qui les mets en relation avec les meilleur prestataires de transport, selon leurs besoins spécifiques. Industry 4.0 enabled-solution including a BID Marketplace, native mobile app for drivers and Embedded hardware & sensors. On permet au client de gérer la logistique de ses biens d'une façon sécurisée avec le meilleur rapport qualité prix.",
+    "secteur": "Mobility",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 O ORBITECH",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "ORBITECH",
+    "website": null,
+    "description": "Seekmake est une place de marché basée sur l'IA pour la fabrication à la demande, qui transforme l'une des plus grandes industries du monde. Grâce à l'IA, la plateforme Seekmake fait correspondre, qualifie et distribue les commandes à travers son réseau. Seekmake a prouvé que son processus de fabrication unique, distribué et décentralisé, est plus durable et évolutif.",
+    "secteur": "Advanced Manufacturing & Robotics",
     "source": "tunisie_pdf"
   },
   {
     "nom": "ORBIT ENGINEERING SOLUTIONS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "orbitsolutions.tn",
+    "description": "\"Orbit Engineering Solutions\" est une société spécialisée dans le développement de solutions d'efficacité énergétique et de digitalisation. Notre produit \"Orbit Smart Monitoring\", est un outil d'analyse de données énergétiques et industrielles dans le cloud avec un éditeur simple et autonome pour construire votre application avec vos exigences. Outil d'analyse des données énergétiques et industrielles avec un matériel agnostique et un éditeur graphique pour construire votre application. Agnostique sur le plan matériel et logiciel (éditeur graphique avec une large gamme de widgets). Haut niveau de sécurité avec la blockchain privée.",
+    "secteur": "Autre; IT, Informatique et digitalisation industriel",
     "source": "tunisie_pdf"
   },
   {
     "nom": "ORIENT TEA",
-    "website": "seekmake.com",
-    "description": "Seekmake est une place de marché basée sur l'IA pour la fabrication à la demande, qui transforme l'une des plus grandes industries du monde.",
-    "secteur": "Advanced Manufacturing & Robotics Secteur d’activité / Sector : Autre; IT, Informatique et digitalisation industriel Secteur d’activité / Sector : FoodTech & New Food seekmake",
+    "website": "kyufi.com",
+    "description": "la fabrication d'un thé soluble 100a% naturel et 100a% authentique. Le thé est vendu dans 3 pays: Canada, France et Libye. - Originalité",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 OP OTO TRAVEL",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "OTO TRAVEL",
+    "website": "oto.tn",
+    "description": "Une application mobile de transport qui offre plusieurs catégories de voitures et qui met en relation les agences de voyage avec les clients. Application, android, iOS et huawei qui permet la liaison entre les client et les chauffeurs. On est la seule application qui offre plusieurs catégories de voitures avec des chauffeurs qualifiés, permettant nos touristes de se déplacer en toute sécurité avec le confort absolue.",
+    "secteur": "Mobility",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "PEPINO TECH (EXPENSYA)",
+    "website": "expensya.com",
+    "description": "Expensya propose l'automatisation de la gestion des dépenses - dans le monde entier. - Originalité",
+    "secteur": "Business Software & services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "PEPOLLS",
-    "website": "oto.tn",
-    "description": "Une application mobile de transport qui offre plusieurs catégories de voitures et qui met en relation les agences de voyage avec les clients.",
-    "secteur": "Mobility Secteur d’activité / Sector : Business Software & services Secteur d’activité / Sector : Ad Tech and Creative Tech oto",
+    "website": "about.pepolls.com",
+    "description": "Pepolls est une Dapp (Decentralized Application) sociale bâtie avec la technologie Blockchain qui introduit une toute nouvelle dimension dans le monde des réseaux sociaux permettant aux utilisateurs de faire entendre leurs voix grâce au système de sondage, d'exprimer librement leurs pensées dans les espaces de débat, de naviguer a travers différents centres d'intérêt et de créer leurs propres fils d'actualité. Le réseau social Pepolls repose sur une technologie en faveur des sociétés, visant à en connecter toutes les parties de manière proactive dans un espace autonome, décentralisé et auto-souverain. Pepolls est construit sur la technologie Blockchain afin d’assurer une sécurité optimisé à ses utilisateurs. Un réseau social qui monétise les données : Compte tenu du fait que Pepolls fera toujours passer les intérêts de ses utilisateurs en premier et défendra la liberté d'expression, et la vie privée, le Dapp récompensera ses utilisateurs pour leurs données et leurs interactions et le temps qu'ils y consacrent.",
+    "secteur": "Ad Tech and Creative Tech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 QR QARTAJ INTERNATIONAL GROUP",
-    "website": "",
-    "description": "",
-    "secteur": "",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "ROBODOT",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "QARTAJ INTERNATIONAL GROUP",
+    "website": "qartaj.com",
+    "description": "Qartaj est une entreprise de commerce équitable B2B qui aide les Producteurs et Artisans Tunisiens à vendre leurs produits dans le monde entier. e-commerce B2B. Originalité",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
     "nom": "ROBOCARE",
-    "website": "qartaj.com",
-    "description": "Qartaj est une entreprise de commerce équitable B2B qui aide les Producteurs et Artisans Tunisiens à vendre leurs produits dans le monde entier.",
-    "secteur": "Commerce and shopping Secteur d’activité / Sector : Ad Tech and Creative Tech Secteur d’activité / Sector : Agritech qartaj",
+    "website": "robocare.tn",
+    "description": "Robocare offre une solution pour prévenir la propagation rapide des maladies chez les plantes sous serres et l'utilisation massive des pesticides. Robocare détecte les maladies à une étape précoce en utilisant la technologie spectrale ce qui va améliorer la qualité des récoltes et diminuer l’utilisation des pesticides. Nous prenons soin des cultures grâce à l'imagerie spectrale et à l'IA avancée. TomaCare est un système de surveillance numérique pour l'agriculture de précision et la détection des maladies, basé sur des algorithmes d'IA et la technologie hyperspectrale. Il capte les signaux des plantes qui sont invisibles à l'œil humain, en utilisant les technologies hyper et multispectrales pour surveiller le stress des plantes et la diminution de leur activité photosynthétique.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 RS RUN-IT",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "ROBODOT",
+    "website": null,
+    "description": "Robotdot est un robot intelligent, autonome et mobile dédié aux industries de semiconducteurs. Il permet de tester, programmer ou dispatcher des puces ou des semiconducteurs ou d'autres objets comme les fioles pharmaceutiques, doté d'une caméra avec reconnaissance intelligente des objets. Structure compacte, mobile avec une taille laboratoire, Isolation électromagnétique extérieur ou inversement. Robot intelligent, autonome et mobile dédié aux industries de semiconducteurs, il automatise et optimise les tests.",
+    "secteur": "Ad Tech and Creative Tech",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "RUN-IT",
+    "website": "run-it.tn",
+    "description": "une application Web e-commerce B2B qui fait la relation entre fournisseurs et boutiques clientes. Cette application a été développée avec les technologies js et nous l'avons rendue adaptable sur les ordinateurs portables et les téléphones. Cette application digitalise le rôle des commerciaux.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "RYTHMINNO",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "rythminno.com",
+    "description": "E-Learning (LMS, Learner Generated Content, Learning Pédagogique, Vidéo Learning) / Offrir des bourses universitaires en Chine/ Programmes d'appui ert d'accélération pour Startups / Matchmaking Investisseur et Entrepreneur. AI, Machine Learning, Blockchain, Architecture web modulaire. Créer un cadre cohérent pour entreprendre une sélection équilibrée en combinant une approche à la fois estudiantine et entrepreunariale.",
+    "secteur": "EdTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SAHTICARE",
-    "website": "run-it.tn",
-    "description": "une application Web e-commerce B2B qui fait la relation entre fournisseurs et boutiques clientes.",
-    "secteur": "Business Software and services Secteur d’activité / Sector : EdTech Secteur d’activité / Sector : HealthTech run-it",
+    "website": "vitah.tech",
+    "description": "Solution matérielle/logicielle pour surveiller les signes vitaux en temps réel. Utiliser une montre connectée de santé équipée de capteurs spécifiques et connectée à des applications web et mobiles. En cas de détection d'anomalie, Vitah alerte les utilisateurs, leurs contacts d'urgence et leurs médecins. Une solution Hardware(montre connectée)/ software( Application mobile et web) et une couche de Intelligence artificielle. Suivi en temps réel des signes vitaux d'utilisateur et Mise en relation continue entre le patient et son médecin.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 S SILIPLASTUNISIE",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "SILIPLASTUNISIE",
+    "website": "siliplastunisie.tn",
+    "description": "BaBy Cute, spécialiste des biberons en silicone pur, nouvelle génération anti-colique. Le biberon est un accessoire indispensable pour alimenter l’enfant durant les premiers mois de sa vie, il est un élément qui doit le rassurer, autant que les parents. Production des biberons en silicone avec filtre anti-colique (100 % silicone) 0 % Bisphinole, 0a% PVC. biberon possède un filtre anti-colique permettant de boire dans toutes les positions et lui évitant l’ingestion d’air.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SIMARL",
-    "website": "https://soft-justice.com.tn",
-    "description": "SIMARL est une start-up qui propose des solutions de résolution de conflits par la négociation, la médiation et l'arbitrage en intégrant des technologies.",
-    "secteur": "LegalTech",
+    "website": "simarl.tech",
+    "description": "SIMARL est un mécanisme formel qui se compose de : SIMARL ACADEMY pour assurer des formations certifiantes en médiation et en arbitrage & SOFT-JUSTICE by SIMARL qui est une plateforme qui permet la prévention de risque juridique (Blockchain) et la résolution des litiges en ligne dans un delai ne dépassant pas six mois. La réingénierie de processus de médiation et arbitrage par le recours aux technologies. SIMARL : passage d’une justice judicaire à une justice basée sur l’entente contractuelle en utilsant les technologies.",
+    "secteur": "Autre; Alternative dispute resolution (ADR/ODR/ODARAI)",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -615,128 +648,121 @@
   },
   {
     "nom": "SKANIT DIGITAL SOLUTIONS",
-    "website": "siliplastunisie.tn",
-    "description": "BaBy Cute, spécialiste des biberons en silicone pur, nouvelle génération anti-colique. Le biberon est un accessoire indispensable pour alimenter l’enfant durant les premiers mois de sa vie, il est un élément qui doit le rassurer, autant que les parents.",
-    "secteur": "HealthTech Secteur d’activité / Sector : Autre; Alternative dispute resolution (ADR/ODR/ODARAI) Secteur d’activité / Sector : FoodTech & New Food siliplastunisie",
+    "website": "skanit.net",
+    "description": "SKANIT est une application web de gestion de restaurants, de bars, de cafés... qui aide le restaurateur à bien gérer son établissement, à améliorer ses services et donc à augmenter son chiffre d'affaires grâce à un système simple et facile à utiliser ! Aspect TechnologiqueNous avons choisi le framework de développement web Laravel (en PHP), MySQL, le machine learning (python), BI... On offre une nouvelle expérience à notre client, digitalisation de menus, prévision de ventes, programme de fidélité...",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 S SKILLS 21A",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "SKILLS 21A",
+    "website": "getskills21.com",
+    "description": "Skills 21 offre une nouvelle façon d'apprendre les Sales et les Growth. À travers une formation 100.% en ligne et délivrée par des experts, les participants acquièrent en un temps record (moins d'un mois) des compétences demandées par le marché de l'emploi. Nous avons une plateforme en ligne pour centraliser l'experience d'apprentissage en ligne des participants. Le projet se focalise sur les softs skills et les techniques de ventes avec une approche 100.% en ligne et pratique.",
+    "secteur": "EdTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SMART FARM",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "smartfarm.com.tn",
+    "description": "Notre société fabrique et installe des capteurs de sol (outil d'aide à la décision) ainsi qu'un outil de suivi web et mobile en ligne qui aide les producteurs agricoles à économiser l'eau d'irrigation, l'énergie, à augmenter la production et à améliorer la qualité des produits. Capteurs sans fil connecter pour la collecte des données des recommandation baser sur l'IoT et l'IA. Capteurs de sol, Auto étalonnage basé sur l'IA ne nécessite aucun savoir-faire technologique pour l'installer.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SMART MED",
-    "website": "getskills21.com",
-    "description": "Skills 21 offre une nouvelle façon d'apprendre les Sales et les Growth. À travers une formation 100.% en ligne et délivrée par des experts, les participants acquièrent en un temps record (moins d'un mois) des compétences demandées par le marché de l'emploi.",
-    "secteur": "EdTech Secteur d’activité / Sector : Agritech Secteur d’activité / Sector : HealthTech getskills21",
+    "website": "med.tn",
+    "description": "MED permet de digitaliser et optimiser le parcours de soins afin de faciliter le quotidien des professionnels d’un côté, et d’améliorer l’accès aux soins pour les patients de l’autre. MED est une plateforme en ligne disponible sur les 03 stores, utilisant différentes technologie : AI, React Native, IONIC, PHP, REACT, et Symfony; ce qui nous permet d'assurer plus de 2.5 millions de visites par mois et couvrir 03 pays (Tunisie, Maroc et l'Algérie). Pour les patients, MED permet de prendre des rendez-vous en ligne avec le médecin adéquat suivant plusieurs critères (géolocalisation, motifs de consultations, etc.) MED est aussi un média santé avec des milliers d'articles et de vidéos de médecins de différentes spécialités, en arabe et en français.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 S SMART WAYS INNOVATION",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "SMART WAYS INNOVATION",
+    "website": "smartways-innovation.com",
+    "description": "Société multi-services spécialisée dans le domaine de nouvelles technologies. Elle met à votre disposition des solutions intégrées et connectées pour l’économie des ressources des différents domaines. Le projet est le système de contrôle et de surveillance des réfrigérateurs alimentaires, pour conserver les produits. On a utilisé la technology \"Internet of things\" et Cloud sous le concept \"Industrie 4.0\". Capteurs sans fil contrôlent le frigo. Mesure automatique du température / l'humidité. Informe immédiat en cas d'anomalie.",
+    "secteur": "Ad Tech and Creative Tech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SOCIETE B QUBE",
-    "website": "smartways-innovation.com",
-    "description": "Société multi-services spécialisée dans le domaine de nouvelles technologies. Elle met à votre disposition des solutions intégrées et connectées pour l’économie des ressources des différents domaines. Le projet est le système de contrôle et de surveillance des réfrigérateurs alimentaires, pour conserver les produits.",
-    "secteur": "Ad Tech and Creative Tech Secteur d’activité / Sector : Business Software and services smartways-innovation",
+    "website": "bqubeits.com",
+    "description": "BQube ITs est une start-up spécialiste en Industrie4.0. Elle offre la solution QMES en mode SAAS (Software as a Service) exploitable au sein ou en dehors de la structure (accessible de partout), qui permet une gestion et un contrôle h24 du déroulement des activités. Afin de permettre les entreprises industrielles de maîtriser tous les détails du processus de production qui ont un impact négatif sur l’efficacité et la qualité de leurs opérations QMES 4.0 a été conçu pour: -Avoir une meilleure gestion du flux de l'usine -Améliorer les pertes de performance, de qualité et de disponibilité -Faire le suivi de l'usine en temps réel. -Analyser le rendement et l'identification des problèmes. QMES 4.0 est également capable de prévoir les risques via un système de prédiction des défauts et de la production. L'application QMES est Full Web, en mode SAAS, hébergée EN CLOUD ou en Serveur locale dépendamment du besoin du client, communique directement avec les automates et les capteurs (IoT) pour la collecte automatique des données. Application performante et interactive: le temps de réponse permet de gérer un nombre considérable de transactions simultanées (Actuellement, la solution gère une production de 3 pièces par seconde et par ligne chez une industrie comportant 30 lignes). -Protocole de communication standard et multicanal. - La solution est en mode SAAS (Hébergé en Cloud ou sur un serveur local) accessible à distance permettant le contrôle et le suivi h24 via tout appareil connecté. -La solution est développée d'une manière à obéir parfaitement aux attentes des professionnelles en industrie grâce aux collaborateurs qui sont des consultants métiers et qui maîtrisent les besoins. -La modularité: QMES intègre plusieurs modules à la fois: Traçabilité, qualité et production.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "E - SMPM",
-    "website": "",
-    "description": "",
-    "secteur": "",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "ICAN-C",
-    "website": "",
-    "description": "",
-    "secteur": "",
-    "source": "tunisie_pdf"
-  },
-  {
-    "nom": "TUNISIENNE CO-SOLAR DES INNOVATIONS TECHNOLOGIQUES SOLAIRES",
+    "nom": "SOCIÉTÉ DE PROMOTION MAGHRÉBINE MORPHÉE - SMPM",
     "website": "elbusines.com",
-    "description": "elbusines.com est une marketplace de vente et d'acquisition d'entreprises et de startups. Elle assure le matchmaking entre les cédants et les repreneurs en utilisant la technologie de l'AI. Notre vision est de rendre les actifs illiquides plus liquides et de structurer le marché de la transmission des entreprises.",
-    "secteur": "Ad Tech and Creative Tech Secteur d’activité / Sector : HealthTech Secteur d’activité / Sector : Agritech elbusines",
+    "description": "elbusines.com est une marketplace de vente et d'acquisition d'entreprises et de startups. Elle assure le matchmaking entre les cédants et les repreneurs en utilisant la technologie de l'AI. Notre vision est de rendre les actifs illiquides plus liquides et de structurer le marché de la transmission des entreprises. Nous utilisons la technologie de l'AI. Notre objectif est de rendre les actifs illiquides plus liquides et de structurer le marché de la transmission.",
+    "secteur": "Ad Tech and Creative Tech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 S SOGHYEN",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "SOCIÉTÉ ICAN-C",
+    "website": "co-solar.com",
+    "description": "Nous envisageons être des futurs prestataires dans le domaine de l'IOT. Notre objectif est d'interpréter nos idées de service et moyens en objets smart qui rendra en premier lieu le quotidien des porteurs d'un trouble cognitive ou physique ou des êtres dépendants (comme les bébés) moins compliqué et plus sécurisé. Notre solution est pricipalement menées avec un algorithme répondant aux besoins des malvoyants en premier produit. Ce projet a rapporté le premier prix comme le concept le plus humanitaire au monde en Bruxelles dans l'année 2015.",
+    "secteur": "HealthTech",
+    "source": "tunisie_pdf"
+  },
+  {
+    "nom": "SOGHYEN",
+    "website": null,
+    "description": "Chasse d'eau hydropneumatique à commande électrique, elle résoud les problèmes des fuites d'eau et des pannes fréquentes dans les chasses d'eau conventionnelles. c'est une chasse d'eau hydropneumatique à commande électrique. Notre chasse d'eau permet le recyclage des eaux grises issues des lave-mains pour les premiers rinçage des cuvettes.",
+    "secteur": "Environment",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SOLEDU",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "sol-edu.org",
+    "description": "Proposer des solutions éducatives innovantes, sous forme de formations et des coachings en ligne, aidant les parents à surmonter les difficultés de parentalité. Une plateforme en ligne qui contient des vidéos thématiques et des sessions live de coaching de groupe pour les abonnés. Nos formations sont parmi les rares en parentalité. Nos solutions sont basées sur les études scientifiques et la réalité.",
+    "secteur": "EdTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "STE CERRO SOFT",
-    "website": "youtube.com",
-    "description": "Chasse d'eau hydropneumatique à commande électrique, elle résoud les problèmes des fuites d'eau et des pannes fréquentes dans les chasses d'eau conventionnelles.",
-    "secteur": "Environment Secteur d’activité / Sector : EdTech Secteur d’activité / Sector : Commerce and shopping https://www",
+    "website": "tunisie-enchere.com",
+    "description": "Tunisie-enchère est une plateforme web de vente en ligne développée qui donne à ces utilisateurs la liberté de choisir la méthode de vente de leurs produits, ils peuvent alors les vendre aux enchères avec option d’achat direct ou à prix fixe avec option du prix négociable. Tunisie Enchère est une plateforme et app. mobile de vente en ligne C2C & B2C (enchères, prix fixes ou petites annonces). Surcharge des greniers et dressing pour les particuliers et lenteur de liquidation des stocks pour les professionnels.",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 S STE HORIZON EDUCATION",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "STE HORIZON EDUCATION",
+    "website": null,
+    "description": "\"Ferid autour du monde\" est une application mobile ludique et éducative, qui offrira aux enfants des contenus pédagogiques tels que des histoires, des vidéos animées, des jeux, des quiz, sous forme de parcours interactifs. Notre application aide à engager les enfants en leur fournissant un contenu différent en fonction de leurs types d'intelligence. Notre application mobile est disponible sur la majorité des appareils mobiles, notamment Android, iPhone, IPad, et sur le web. Notre originalité est notre méthodologie de gamification, qui augmente l'engagement de l'utilisateur, sa concentration et sa volonté d'apprendre. Notre application récompense les progrès des utilisateurs par des réalisations,et des prix pour les personnages. De plus, \"Ferid\" se concentre sur la rétention des utilisateurs grâce à des classements dans le jeu et à la narration de contenu dans les jeux, les histoires et les vidéos.",
+    "secteur": "EdTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "STE NEOPOLIS DEVELOPPEMENT",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "neopolis-dev.com",
+    "description": "Neopolis Development est une FINTECH opérant dans les systèmes d'information, particulièrement les ERP de banques/assurances. Avec une filiale en France, l'entreprise possède dans son actif une solution Front/Back pour les assurances (mutuelles et distributeurs) et compte déjà plusieurs clients dans son actif. Des solutions Low Code. Solutions adaptées aux Neo-assurances Neo- banques.",
+    "secteur": "Fintech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "SWIVER INVEST SA",
-    "website": "neopolis-dev.com",
-    "description": "\"Ferid autour du monde\" est une application mobile ludique et éducative, qui offrira aux enfants des contenus pédagogiques tels que des histoires, des vidéos animées, des jeux, des quiz, sous forme de parcours interactifs. Notre application aide à engager les enfants en leur fournissant un contenu différent en fonction de leurs types d'intelligence.",
-    "secteur": "EdTech Secteur d’activité / Sector : Fintech Secteur d’activité / Sector : Business Software and services; - neopolis-dev",
+    "website": "swiver.io",
+    "description": "Swiver est une solution SaaS sécurisée, intuitive et facile à utiliser pour la gestion financière et commerciale des petites entreprises. Swiver est un ERP de gestion commerciale sous forme de SAAS. gestion des ventes, gestion des achats, gestion des stocks, gestion de la trésorerie, analyses et reporting.",
+    "secteur": "Business Software and services;",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 T TADREEX",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "TADREEX",
+    "website": "tadreex.com",
+    "description": "TadreeX est une solution en ligne oÙ les employés peuvent suivre une formation industrielle à l'aide de la technologie immersive 3D. Notre solution représente pour le département des ressources humaines un nouvel outil pédagogique qui offre un apprentissage pratique, une évaluation en temps réel des apprenants et un engagement accru des employés. En fonction des besoins des clients, notre solution peut être déployée sur des casques de réalité virtuelle VR (High immersive Technology) ou via des ordinateurs (Low Immersive Technology) sur notre plateforme web www. tadreex.com. Immersive Learning : L'utilisation de la réalité virtuelle et l'immersion en 360 degré avec les casques de réalité virtuelle. La réalité virtuelle et la technologie immersive 360 degre: permet de former des collaborateurs de manière interactive en recréant parfaitement l’environnement de travail en 3D.",
+    "secteur": "EdTech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "TADRIS TN",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "tadris.tn",
+    "description": "Développement des solutions multimédias pour une éducation numérique. Passer à l'éducation numérique. L'interactivité numérique entre élève et professeur.",
+    "secteur": "Autre; développement des outilles multimédia pour l'éducation numérique",
     "source": "tunisie_pdf"
   },
   {
     "nom": "TAWA DIGITAL TALENTS",
-    "website": "tadreex.com",
-    "description": "TadreeX est une solution en ligne oÙ les employés peuvent suivre une formation industrielle à l'aide de la technologie immersive 3D. Notre solution représente pour le département des ressources humaines un nouvel outil pédagogique qui offre un apprentissage pratique, une évaluation en temps réel des apprenants et un engagement accru des employés. En fonction des besoins des clients, notre solution peut être déployée sur des casques de réalité virtuelle VR (High immersive Technology) ou via des ordinateurs (Low Immersive Technology) sur notre plateforme web www. tadreex.com.",
-    "secteur": "EdTech Secteur d’activité / Sector : Autre; développement des outilles multimédia pour l'éducation numérique Secteur d’activité / Sector : Ad Tech and Creative Tech tadreex",
+    "website": "https://tawa.digital/fr",
+    "description": "TAWA Digital Talents est une plateforme de mise en relation entre les créateurs de contenu et les marques pour gérer des campagnes de marketing d'influence. Notre platefrome permet actuallement de calculer les performances de 6200 influenceurs basés en Tunisie, Algérie et Maroc. Des technologies de Tracking et de scrapping et d'analyse de données. Nous sommes la seule plateforme de marketing d'influence en Afrique du Nord.",
+    "secteur": "Ad Tech and Creative Tech",
     "source": "tunisie_pdf",
     "sources_contributrices": [
       "thedot",
@@ -744,72 +770,72 @@
     ]
   },
   {
-    "nom": "SEPTEMBER 2022 T TASHFEEN",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "TASHFEEN",
+    "website": "tashfeen.tech",
+    "description": "Une plateforme de calcul des ouvrages génie civil en ligne permettant à l'ingénieur concepteur ou à l'étudiant de faire des simulations relatives à des modélisations courantes en ingénierie telle que les routes, les réservoirs, les ouvrages hydrauliques, etc. Geotashfeen. tech se distingue par ses services considérés comme une première à l'international en Génie civil: Il n'existe aucune autre plateforme de calcul en ligne gratuite offrant la qualité et encore moins une telle multitude de services. Plateforme web permettant à l'utilisateur de saisir des inputs de paramètres physiques et mécaniques puis cliquer sur un pushbutton pour obtenir ses résultats. Encore plus, l'utilisateur a la capacité d'imprimer gratuitement sa note de calcul. En front,la plateforme est écrite en js alors qu'en back elle est développée en php. geotashfeen.tech arrive à atteindre 300 visiteurs par jours à savoir qu'elle a été lancée depuis début 2021. geotashfeen.tech permet aux concepteurs de contourner l'utilisation des logiciels exe chers,lourds et crackés en échange de résultats très rapides et utilisables à l'échelle industrielle. En termes d'éducation, geotashfeen.tech est le berceau des étudiants curieux, novices et checheurs car pour chaque simulation, on peut télécharger la brochure relative au background théorique qui la régit. geotashfeen.tech est l'éducateur des étudiants du monde ainsi que le solveur des ingénieurs concepteurs.",
+    "secteur": "Real Estate Tech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "TEMBO DIGITAL LIBRARY",
     "website": "tembolib.com",
-    "description": "Une plateforme de calcul des ouvrages génie civil en ligne permettant à l'ingénieur concepteur ou à l'étudiant de faire des simulations relatives à des modélisations courantes en ingénierie telle que les routes, les réservoirs, les ouvrages hydrauliques, etc. Geotashfeen. tech se distingue par ses services considérés comme une première à l'international en Génie civil: Il n'existe aucune autre plateforme de calcul en ligne gratuite offrant la qualité et encore moins une telle multitude de services.",
-    "secteur": "Real Estate Tech Secteur d’activité / Sector : HealthTech tashfeen",
+    "description": "Numérisation et archivage numérique et physique des lames de microscope avec accès au partage et télédiagnostic à travers une plateforme dédiée ainsi que l'amélioration de la traçabilité, la couverture des déserts médicaux et la valorisation des données médicales pour le compte de la recherche scientifique. Scanner spécifique + plateforme en ligne dédiée à l'archivage et partage. Analyse et valorisation des données. Technique non existante sur le marché, business model adapté au spécifications du marché: abonnement aux services.",
+    "secteur": "HealthTech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 T TUNISIA MARKET / TERMINAL22A",
+    "nom": "TUNISIA MARKET / TERMINAL22A",
     "website": "tunisia-market.com",
-    "description": "Tunisia-Market une solution intégrée pour les artisans pour vendre leurs produits, prouver/améliorer l'authenticité et numériser l'activité en Tunisie et à l'international, utilisant la technologie blockchain pour prouver et caractériser l'authenticité, aﬁn d'améliorer la valorisation et l'unicité de leurs créations.",
-    "secteur": "Commerce and shopping tunisia-market",
+    "description": "Tunisia-Market une solution intégrée pour les artisans pour vendre leurs produits, prouver/améliorer l'authenticité et numériser l'activité en Tunisie et à l'international, utilisant la technologie blockchain pour prouver et caractériser l'authenticité, afin d'améliorer la valorisation et l'unicité de leurs créations. Tunisia Market est un marketplace qui permet aux artisans de vendre et protéger leur creation via le blockchain. Tunisia-market permet de valoriser et protéger l'authenticité des produits via l'accès à notre solution blockhain.",
+    "secteur": "Commerce and shopping",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "FR EN TUNISIAN IDENTITY ONLINE",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "TUNISIAN IDENTITY ONLINE",
+    "website": "tido.tn",
+    "description": "Tido est une plateforme d’identification électronique via le téléphone mobile basée sur l'identité bancaire, permet d’accéder aux services fournis par les institutions de l’état, les banques, les assurances.. Sert à s'identifier en ligne, et/ou signer des documents. Nous travaillons sur un système de signature en cloud qui utilise l’authentification UAF FIDO compatible avec le C.S.C. On utilise les bases de données de la banque partenaire pour émettre des signatures électroniques aux clients en ligne.",
+    "secteur": "Fintech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "TUNISIE AQUAPONIE",
-    "website": "tido.tn",
-    "description": "Tido est une plateforme d’identiﬁcation électronique via le téléphone mobile basée sur l'identité bancaire, permet d’accéder aux services fournis par les institutions de l’état, les banques, les assurances.. Sert à s'identiﬁer en ligne, et/ou signer des documents.",
-    "secteur": "Fintech Secteur d’activité / Sector : Agritech tido",
+    "website": null,
+    "description": "Tunisie Aquaponie propose des services et des produits pour la culture hors sol pour les particuliers et les professionnels qui veulent produire des fruits et légumes sains, dans le respect de l'environnement et de la santé du consommateur. Notre solutions de production s'inscrit dans le cadre d'une agriculture durable. Des légumes sont cultivés hors sol, dans des supports qui assurent la circulation de l’eau dans un système fermé. Jusqu’à : 90.% d'économies en eau, 70.% en engrais, 10 fois plus de productivité par rapport à l’agriculture classique.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 TV TYNASS IT",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "TYNASS IT",
+    "website": "tynassit.com",
+    "description": "Tynass trips est une application mobile qui a démocratisé l'histoire et la culture grâce à une expérience de voyage immersive basée sur un guide électronique mélangé à la réalité augmentée et à l'environnement 3D. notre projet était basé sur l'intelligence artificielle et la réalité augmentée. Tynass propose une expérience complète utilisant les nouvelles technologies pour une expérience interactive et immersive.",
+    "secteur": "Autre; Augmented reality & cultural tourism",
     "source": "tunisie_pdf"
   },
   {
     "nom": "VAGROK",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "website": "vagrok.com",
+    "description": "Pour ajouter de la valeur aux fermes. On a un écosystème IoT composé d'un collier qui mesure en permanence la chaleur et la santé des bovins, ainsi q'un analyseur qui identifie la qualité et la teneur du lait. Notre modèle analysera les données sur le serveur pour avertir l'utilisateur en cas d'incident. Les données sont transmises au serveur via LoRa. Le modèle d'IA reconnaît les patterns. Un écosystème IoT évolutif pour les fermes intelligentes. La ferme est maintenant facilement accessible de partout.",
+    "secteur": "Agritech",
     "source": "tunisie_pdf"
   },
   {
     "nom": "VETCARE SARL",
-    "website": "tynassit.com",
-    "description": "Tynass trips est une application mobile qui a démocratisé l'histoire et la culture grâce à une expérience de voyage immersive basée sur un guide électronique mélangé à la réalité augmentée et à l'environnement 3D.",
-    "secteur": "Autre; Augmented reality & cultural tourism Secteur d’activité / Sector : Agritech Secteur d’activité / Sector : FoodTech & New Food tynassit",
+    "website": "vetcare.tn",
+    "description": "Pet food, additifs et shampoings pour animaux- lignes de production- produits abordables avec qualité des produits importés. Nous avons nos lignes de production, notre site internet et nos réseaux sociaux. Nous produisons des produits abordables avec une qualité comparable aux produits importés.",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 VW VITAL TOOLS",
-    "website": "",
-    "description": "",
-    "secteur": "",
+    "nom": "VITAL TOOLS",
+    "website": "vitaltools.io",
+    "description": "Nous avons construit les solutions informatiques les plus abordables pour la gestion d'entreprise. e-ERP est notre première plateforme collaborative en ligne axée sur la gestion des tâches/projets. Une application web de gestion collaborative des tâches/projets pour les équipes commerciales et techniques. -un tableur intuitif pour faciliter la saisie des données allouées à une tâche/ événement avec le meilleur mode d'affichage pour une vue panoramique sur toute la durée du projet. Dans un seul outil élémentaire (tableur), je permets à l'utilisateur de saisir intuitivement les données, puis de visualiser les tâches/événements en plusieurs modes. -simplicité d'utilisation et de manipulation de la plateforme -la possibilité de voir et d'interagir avec le projet dans différents modes Bird-Vue -facilité de collaboration entre les membres internes et externes de l'entreprise.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
     "nom": "VIZMERALD",
-    "website": "https://vizmerald.com/wp",
-    "description": "ViZmerald est une start-up spécialisée dans le design de produits électroniques dont le premier produit est un casque de protection respiratoire connecté pour les professionels de l'industrie et de la santé.",
+    "website": "vizmerald.com",
+    "description": "La startup ViZmerald crée des produits électroniques et des simulations 3D interactives. Ses effort actuels ciblent : 1) Un produit matériel : Produire le casque filtrant à air AmenAir, 2) Une solution logicielle : Développer le serious game de simulation dentaire ParoChir. Nous concevons CAO artistique, produisons les cartes électroniques et développons des solutions interactives 3D et en IA. AmenAir est un nouveau casque filtrant l'air modulaire et connecté. ParoChir est une simulation 3D pour dentistes.",
     "secteur": "Advanced Manufacturing & Robotics",
     "source": "tunisie_pdf",
     "sources_contributrices": [
@@ -819,31 +845,35 @@
   },
   {
     "nom": "WATERSPIRIT SA",
-    "website": "vitaltools.io",
-    "description": "Nous avons construit les solutions informatiques les plus abordables pour la gestion d'entreprise. e-ERP est notre première plateforme collaborative en ligne axée sur la gestion des tâches/projets.",
-    "secteur": "Business Software and services Secteur d’activité / Sector : Advanced Manufacturing & Robotics Secteur d’activité / Sector : FoodTech & New Food vitaltools",
+    "website": "waterspirit.com.tn",
+    "description": "Nous extrayons de l'Astaxanthine (le plus fort anti-oxydant commercialisé au monde) à partir de microalgues que nous cultivons dans des photobioreacteurs. L'extraction se fait par CO2 supercritique sans aucun produit chimique. Nous utilisons les technologies les plus innovations de bout en bout du processus de production: PBR / CO2 Supercritique. Nous sommes l'unique cultivateur de la microalgue Haematococcus pluvialis en Tunisie et en Afrique.",
+    "secteur": "FoodTech & New Food",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "SEPTEMBER 2022 WXZ WATTNOW",
-    "website": "",
-    "description": "",
-    "secteur": "",
-    "source": "tunisie_pdf"
+    "nom": "WATTNOW",
+    "website": "wattnow.io",
+    "description": "Wattnow propose une solution IoT de monitoring et de controle d’électricité, qui permet aux entreprises de réduire le gaspillage et améliorer leur efficacité énergétique. - Originalité",
+    "secteur": "Environment",
+    "source": "tunisie_pdf",
+    "sources_contributrices": [
+      "goafricaonline",
+      "tunisie_pdf"
+    ]
   },
   {
     "nom": "X-POINT",
-    "website": "wattnow.io",
-    "description": "Wattnow propose une solution IoT de monitoring et de controle d’électricité, qui permet aux entreprises de réduire le gaspillage et améliorer leur efficacité énergétique.",
-    "secteur": "Environment Secteur d’activité / Sector : Business Software and services wattnow",
+    "website": "work-point.tech",
+    "description": "La plateforme WorkPoint gère les nouveaux modes de travail hybride (Flex Office & Flex Working), permettant d’optimiser les espaces et ressources (bureaux, salles de réunion, places parking) en les proposant en réservation, d’automatiser les flux de demandes de travail à distance et d’avoir une vue °360 sur les employés. Développement en utilisant des technologies web et mobile, avec recours aux technologies d'analyse de données. Modularité et aspect transverse all-in-one pour avoir une vue complète sur l'activité et mode de travail des employés.",
+    "secteur": "Business Software and services",
     "source": "tunisie_pdf"
   },
   {
-    "nom": "3D WAVE",
-    "website": "https://3dwave.tech",
-    "description": "3D WAVE sont Spécialisés dans l'impression 3D, la numérisation 3D et la réalité virtuelle et augmentée.",
-    "secteur": "Business Software and services/VR",
-    "source": "thedot"
+    "nom": "Z-PARTNERS (CAPXVALUE)",
+    "website": "capxvalue.com",
+    "description": "Capxvalue est une solution digitale innovante qui s’adresse au demandeur de financement (entrepreneur, professionnel de la finance) comme au fournisseurs de financements (Banques, Fonds d'Investissements). Capxvalue est une plateforme web qui permet à l'utilisateur une fois loggé d'accéder à des fonctionnalités gratuites ou payantes. La programmation de l’interface client est basée sur JavaScript. Les technologies Apache, Symfony (PHP), Twig, Doctrine et Mysql sont utilisées coté serveur/base de donnée. L'originalité de Capxvalue est qu'elle mutualise les états financiers historiques et previsionnels, de façon anonyme, par secteur, pour permettre à l'utilisateur de positionner son projet par rapport à d'autres comparables sectoriels (23 indicateurs). L'autre valeur ajoutée de Capxvalue est qu'elle permet à l'utilisateur d'estimer la valeur financière de son projet dans une perspective de levée de fonds ou bien de valorisation periodique d'un portefeuille d'actifs.",
+    "secteur": "Business Software and services",
+    "source": "tunisie_pdf"
   },
   {
     "nom": "AROM AIR",
@@ -1095,13 +1125,6 @@
     "source": "thedot"
   },
   {
-    "nom": "Bako Motors",
-    "website": "https://bakomotors.com/home",
-    "description": "Bako Motors est une start-up tuniso-allemande spécialisée dans la\nfabrication de véhicules électriques alimentés par le soleil prévus pour le secteur de \"Last mile delivery\".",
-    "secteur": "Mobility",
-    "source": "thedot"
-  },
-  {
     "nom": "Blue Jet Engineering",
     "website": "https://www.bluejetengineering.com/#",
     "description": "Blue Jet Engineering est une start-up spécialisée dans le développement de solutions d'irrigation intelligentes pour le secteur agricole.",
@@ -1141,13 +1164,6 @@
     "website": "https://www.lunflow.com/home",
     "description": "Lunar TC est une start-up spécialisée dans l’automatisation des processus grâce à son \"No code Workflow Management System\".",
     "secteur": "Business Software and services",
-    "source": "thedot"
-  },
-  {
-    "nom": "NextAV",
-    "website": "https://nextav.ai",
-    "description": "NextAV est une start-up spécialisée dans l'analyse géospatiale qui, grâce à l'intelligence artificielle, propose des solutions innovantes pour le développement durable.",
-    "secteur": "IA/Greentech",
     "source": "thedot"
   },
   {
@@ -1392,13 +1408,6 @@
     "nom": "KYTO PROD",
     "website": null,
     "description": "Entreprise qui tourne autour d'une molécule qui s'appelle le Chitosan, qu'elle extrait à partir de carapace de crabes et de crevettes pour en faire une gamme de produits diversifiés (Cosmétique, bien-être, bio conservateur, bio filtre, biofertilisant).",
-    "secteur": "Startup",
-    "source": "goafricaonline"
-  },
-  {
-    "nom": "WATTNOW",
-    "website": null,
-    "description": "Immeuble SEVEN, 03 Rue Omar Khayem, Zone d'Activité La Goulette-Lac 3",
     "secteur": "Startup",
     "source": "goafricaonline"
   }

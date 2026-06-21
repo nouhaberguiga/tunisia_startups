@@ -13,6 +13,10 @@ from registry import get_scraper
 from storage import load_json, merge_all, save_json
 from pdf_llm_extractor import run_pdf_llm_extraction
 
+pdf_raw = run_pdf_llm_extraction()
+
+# DEBUG obligatoire
+print(json.dumps(pdf_raw[:3], indent=2, ensure_ascii=False))
 
 # =========================
 # SAFE CALL
