@@ -1,0 +1,38 @@
+{
+  "_comment": "Ajoutez une nouvelle source ici pour l'inclure automatiquement au prochain scraping. Si le champ 'scraper' ne correspond à aucun scraper spécifique connu (voir scrapers/registry.py), le moteur générique (IA + crawl4ai) est utilisé automatiquement -> AUCUN code à écrire pour ajouter un nouveau site.",
+
+  "sources": [
+    {
+      "name": "thedot",
+      "label": "The Dot - Nos Startups",
+      "url": "https://thedot.tn/4-nos-staurtups",
+      "scraper": "thedot",
+      "enabled": true
+    },
+    {
+      "name": "ancs",
+      "label": "ANCS - Startups Tunisiennes",
+      "url": "https://www.ancs.tn/fr/startups-tunisiennes",
+      "scraper": "ancs",
+      "enabled": true,
+      "note": "Ce site refuse le crawling via robots.txt. Vérifiez les conditions d'utilisation avant d'activer le scraping automatique."
+    },
+    {
+      "name": "goafricaonline",
+      "label": "Go Africa Online - Annuaire Startups Tunisie",
+      "url": "https://www.goafricaonline.com/tn/annuaire-resultat?type=company&whatWho=Startup&where=country-tn",
+      "scraper": "goafrica",
+      "enabled": true,
+      "paginate": true,
+      "max_pages": 10
+    },
+    {
+      "name": "exemple_nouveau_site",
+      "label": "Exemple : nouveau site ajouté par un autre utilisateur",
+      "url": "https://exemple-annuaire-startups.tn/liste",
+      "scraper": "generic",
+      "enabled": false,
+      "note": "Exemple de source ajoutée SANS écrire de code : le scraper générique (LLM via OpenRouter + crawl4ai) prend automatiquement le relais."
+    }
+  ]
+}

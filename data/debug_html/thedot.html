@@ -1,0 +1,1650 @@
+<!DOCTYPE html><html lang="fr"><head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- CSRF Token -->
+        <meta name="csrf-token" content="KVT98HmTyIBQl3lMKDKlvaZsdNLE6OLsOZqfJIZM">
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+
+        <!------- To change title => webpack.config.js ------->
+        <title>The Dot</title>
+        <link rel="apple-touch-icon" sizes="57x57" href="https://thedot.tn/storage/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://thedot.tn/storage/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://thedot.tn/storage/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://thedot.tn/storage/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://thedot.tn/storage/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://thedot.tn/storage/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://thedot.tn/storage/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://thedot.tn/storage/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://thedot.tn/storage/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://thedot.tn/storage/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://thedot.tn/storage/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://thedot.tn/storage/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://thedot.tn/storage/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://thedot.tn/storage/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://thedot.tn/storage/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+        <link rel="stylesheet" href="https://thedot.tn/css/app.css">
+
+    </head>
+
+                <!-- We are using inline style in this case because we can not pass a dynamic value to sass file 
+            + we dont have a lot of time to change a big part of the project structure -->
+            <body class="details-layout" style="background-color: #7bcaae;">
+
+    
+        <!--------------------------------- Header-Section --------------------------------->
+    <header id="header">
+        <div class="header-content" id="headerContent">
+            <nav class="navbar navbar-expand-xl navbar-dark" id="nav-bar">
+    <div class="container-fluid fade-last-3">
+        <!-------------------- Icon -------------------->
+        <a href="https://thedot.tn">
+            <img src="https://thedot.tn/storage/images/logo_the_dot.svg" class="card-img-top dot-logo-mini" alt="dot meeting">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation" onclick="toggleBtnClick()">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-------------------- nav-items -------------------->
+        <div class="collapse navbar-collapse navbarSupportedContent " id="navbarScroll">
+            <ul class="ms-auto navbar-nav my-2 my-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="https://thedot.tn#the-dot-est">À propos</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://thedot.tn/team">La team</a></li>
+                    </ul>
+
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="https://thedot.tn#prog-section">Programmes &amp; Services</a>
+                    <ul class="dropdown-menu">
+                                                <li>
+                            <a href="https://thedot.tn/programs-services/1-dot-camp">Dot Camp</a>
+                        </li>
+                                                <li>
+                            <a href="https://thedot.tn/programs-services/3-dot-expert">Dot Expert</a>
+                        </li>
+                                                <li>
+                            <a href="https://thedot.tn/programs-services/4-dot-executives-in-residence">Dot Executives in Residence</a>
+                        </li>
+                                                <li>
+                            <a href="https://thedot.tn/programs-services/5-dot-landing">Dot Landing</a>
+                        </li>
+                                                <li>
+                            <a href="https://thedot.tn/programs-services/6-dot-services">Dot Services</a>
+                        </li>
+                                                <li>
+                            <a href="https://thedot.tn/programs-services/7-bridgeup">Bridge'up</a>
+                        </li>
+                                                <li class="nav-item">
+                                                        <a class="nav-link" href="https://thedot.tn/6-digital-transformation-center">Digital Transformation Center</a>
+                                                    </li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                                        <a class="nav-link" href="https://thedot.tn/4-nos-staurtups">Nos startups</a>
+                                    </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="https://thedot.tn#partenaires-section">Partenaires</a>
+
+                    <ul class="dropdown-menu">
+                                                <li><a href="https://thedot.tn/8-nos-partenaires">Nos partenaires</a></li>
+                        <li><a href="https://thedot.tn/9-dot-community-services">Dot Community Services</a></li>
+                                            </ul>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="https://thedot.tn#news-section">News
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://thedot.tn/contact-request">Contact
+                    </a>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav lang-selector">
+    <li class="nav-item d-flex">
+        <a class="nav-link   active " href="https://thedot.tn/4-nos-staurtups">Fr</a>
+        <a class="nav-link  " href="https://thedot.tn/en/4-nos-staurtups">En</a>
+    </li>
+</ul>
+        </div>
+    </div>
+</nav>
+            
+        </div>
+    </header>
+
+        
+            
+        
+        
+
+        
+
+
+        
+
+        
+
+
+                    <section class="theme-section">
+                <div class="title-content">
+                    <div class="pre-title"></div>
+                    <h1 class="title" style="color: ;">Nos startups</h1>
+                </div>
+                <div class="info-content">
+                    <div class="row position-relative align-items-center">
+                        <div class="col-md-8">
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                                    <div class="search-container">
+                        <div class="input-search-zone">
+                            <input type="text" class="tap_input" placeholder="Search Here ..." id="search-input">
+                        </div>
+                        <div class="select-search-zone">
+                            <select id="select_search_input" class="tap_select">
+                                                                    <option value="Secteur">
+                                        Secteur
+                                    </option>
+                                                                            <option name="" value="Business Software and services/VR">
+                                            Business Software and services/VR
+
+                                        </option>
+                                                                            <option name="" value="AI/ Tech environment">
+                                            AI/ Tech environment
+
+                                        </option>
+                                                                            <option name="" value="Business Software and services">
+                                            Business Software and services
+
+                                        </option>
+                                                                            <option name="" value="AI/ Data analysis">
+                                            AI/ Data analysis
+
+                                        </option>
+                                                                            <option name="" value="Edtech">
+                                            Edtech
+
+                                        </option>
+                                                                            <option name="" value="Fintech /Blockchain">
+                                            Fintech /Blockchain
+
+                                        </option>
+                                                                            <option name="" value="B2B software services">
+                                            B2B software services
+
+                                        </option>
+                                                                            <option name="" value="Proptech">
+                                            Proptech
+
+                                        </option>
+                                                                            <option name="" value="watertech / greentech">
+                                            watertech / greentech
+
+                                        </option>
+                                                                            <option name="" value="Tech Services/engineering">
+                                            Tech Services/engineering
+
+                                        </option>
+                                                                            <option name="" value="LegalTech">
+                                            LegalTech
+
+                                        </option>
+                                                                            <option name="" value="Fintech">
+                                            Fintech
+
+                                        </option>
+                                                                            <option name="" value="AI">
+                                            AI
+
+                                        </option>
+                                                                            <option name="" value="industry 4.0">
+                                            industry 4.0
+
+                                        </option>
+                                                                            <option name="" value="Fintech / Blockchain">
+                                            Fintech / Blockchain
+
+                                        </option>
+                                                                            <option name="" value="Consumer products and services">
+                                            Consumer products and services
+
+                                        </option>
+                                                                            <option name="" value="Foodtech / Agritech">
+                                            Foodtech / Agritech
+
+                                        </option>
+                                                                            <option name="" value="watertech / greentech">
+                                            watertech / greentech
+
+                                        </option>
+                                                                            <option name="" value="Media/ content">
+                                            Media/ content
+
+                                        </option>
+                                                                            <option name="" value="Fashiontech">
+                                            Fashiontech
+
+                                        </option>
+                                                                            <option name="" value="Advanced Manufacturing &amp; Robotics">
+                                            Advanced Manufacturing &amp; Robotics
+
+                                        </option>
+                                                                            <option name="" value="Tech Sercices/ engineering">
+                                            Tech Sercices/ engineering
+
+                                        </option>
+                                                                            <option name="" value="Agritech">
+                                            Agritech
+
+                                        </option>
+                                                                            <option name="" value="Edtech / Healthtech">
+                                            Edtech / Healthtech
+
+                                        </option>
+                                                                            <option name="" value="Mobility">
+                                            Mobility
+
+                                        </option>
+                                                                            <option name="" value="Deeptech">
+                                            Deeptech
+
+                                        </option>
+                                                                            <option name="" value="Wellness">
+                                            Wellness
+
+                                        </option>
+                                                                            <option name="" value="Artisanat">
+                                            Artisanat
+
+                                        </option>
+                                                                            <option name="" value="Healthtech">
+                                            Healthtech
+
+                                        </option>
+                                                                            <option name="" value="IA/Greentech">
+                                            IA/Greentech
+
+                                        </option>
+                                                                            <option name="" value="Software/IA">
+                                            Software/IA
+
+                                        </option>
+                                                                            <option name="" value="Greentech">
+                                            Greentech
+
+                                        </option>
+                                                                            <option name="" value="Design/UX">
+                                            Design/UX
+
+                                        </option>
+                                                                            <option name="" value="Location de voiture">
+                                            Location de voiture
+
+                                        </option>
+                                                                            <option name="" value="Social Technology">
+                                            Social Technology
+
+                                        </option>
+                                                                            <option name="" value="Design d'intérieur">
+                                            Design d'intérieur
+
+                                        </option>
+                                                                            <option name="" value="Culture">
+                                            Culture
+
+                                        </option>
+                                                                            <option name="" value="Elder Care">
+                                            Elder Care
+
+                                        </option>
+                                                                            <option name="" value="Fleet management">
+                                            Fleet management
+
+                                        </option>
+                                                                                                </select>
+                        </div>
+                    </div>
+                    <div class="bloc-content">
+
+                        <ul class="responsive-table">
+                            <li class="table-header">
+                                <div class="t-col t-col-1">Logo</div>
+                                <div class="t-col t-col-2">Nom</div>
+                                <div class="t-col t-col-3">Description</div>
+                                <div class="t-col t-col-4">Secteur</div>
+                                <div class="t-col t-col-5">Site web</div>
+                            </li>
+
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/169/3D-Wave.png" alt="3D WAVE" title="3D WAVE" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">3D WAVE
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        3D WAVE sont Spécialisés dans l'impression 3D, la numérisation 3D et la réalité virtuelle et augmentée.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services/VR
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://3dwave.tech/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/170/Arom-R.png" alt="AROM AIR" title="AROM AIR" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">AROM AIR
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        AROM AIR ont fabriqué le premier distributeur d'arômes professionnel entièrement automatisé au monde, doté d'une intelligence artificielle.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    AI/ Tech environment
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://arom-air.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/283/logo-iberis.png" alt="Iberis" title="Iberis" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Iberis
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Plateforme de gestion d'entreprise en ligne</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://iberis.io/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/127/branper-logo.png" alt="Branper" title="Branper" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Branper
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Ils aident les entreprises à améliorer leurs programmes de fidélisation, à contrôler le taux de désabonnement et à optimiser la BI, grâce à des tableaux de bord chargés de 10 indicateurs clés de performance.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    AI/ Data analysis
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://branper.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/171/Classquiz.png" alt="CLASS QUIZ" title="CLASS QUIZ" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">CLASS QUIZ
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        ClassQuiz est une plateforme éducative et interactive qui offre un accompagnement académique, ludique et personnalisé aux élèves des écoles primaires</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://classquiz.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/190/Coinsence.png" alt="Coinsence.org" title="Coinsence.org" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Coinsence.org
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Coinsence permet aux projets et aux organisations de créer leurs propres crypto-actifs et monnaies communautaires pour stimuler l'échange de ressources, la collaboration et le partage de la valeur au-delà de toutes les frontières.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech / Blockchain
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://coinsence.org" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/130/Logo-Cynoia-ai.jpg" alt="Cynoia" title="Cynoia" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Cynoia
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Plateforme qui réunit tous les outils de communication et de collaboration sous un même toit, de manière simple et efficace.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    B2B software services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://cynoia.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/175/IPOMM-by-DATA-PM.png" alt="DATA PM" title="DATA PM" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">DATA PM
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Ils font de la modélisation des informations du bâtiment BIM, à travers une application mobile et web.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Proptech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://ipomm.tech/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/191/Dracoss.png" alt="Dracoss" title="Dracoss" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Dracoss
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        La fabrication de machine à recycler les eaux usées pour les restaurants, les hôtels et les salles de sport afin qu'ils puissent réduire leur consommation d'eau</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    watertech / greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.dracosss.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/192/Drill-Serv.png" alt="DrillSERV" title="DrillSERV" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">DrillSERV
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Gestion durable des ressources en eaux souterraines.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Tech Sercices/ engineering
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="http://drillserv-tunisia.com.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/194/D-Sap.png" alt="D-SAP" title="D-SAP" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">D-SAP
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        D-SAP est un laboratoire digitale de recherche et développement,</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    LegalTech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://d-sap.tech/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/173/eurafrique.png" alt="Eurafrique.Legal" title="Eurafrique.Legal" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Eurafrique.Legal
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Contrathèque &amp; services juridiques en ligne</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    LegalTech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://eurafrique.legal/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/205/expensya.png" alt="Expensya" title="Expensya" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Expensya
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Solution de gestion des notes de frais et des paiements professionnels</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.expensya.com/fr/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/206/Fabskill.png" alt="Fabskill" title="Fabskill" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Fabskill
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Une platforme qui permet de numériser le processus de recrutement en utilisant l'intelligence artificielle et la vidéo pour automatiser les entretiens.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    AI
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://fabskill.com" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/138/fivepoint-(1).png" alt="FivePoints" title="FivePoints" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">FivePoints
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Fournisseur de talents - Communauté Tech</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.fivepoints.fr/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/176/Industry-X.0.png" alt="Industry X.0" title="Industry X.0" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Industry X.0
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Application mobiles et web adaptables aux besoins, assurant l'amélioration continue du processus de production et stimulant les performances de l'équipe et l'entreprise.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    industry 4.0
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://industryx0.pro/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/177/Inveep.png" alt="Inveep" title="Inveep" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Inveep
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Plateforme SaaS qui garantit la facturation, le contrôle et le suivi de la livraison et des livreurs. Elle offre une expérience qui combine la facturation et la livraison.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="www.inveep.com" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/195/K2lis.png" alt="K2LIS" title="K2LIS" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">K2LIS
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        C'est une startup spécialisée dans les solutions de finance numérique et les technologies Blockchain.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech / Blockchain
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="www.K2LIS.com" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/174/Kaco.png" alt="Kaco, looh.tn" title="Kaco, looh.tn" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Kaco, looh.tn
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Kaco est une combinaison entre la technique de la recharge et le monde du luxe , sa vision est d'augmenter considérablement l'autonomie des produits électronique tout en y intégrant une touche de luxe à travers ses accesoires ergonomiques avec un design distinctif</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Consumer products and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/193/Konnect.png" alt="Konnect Networks" title="Konnect Networks" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Konnect Networks
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Konnectnetwork est une plateforme de référence pour les paiements transfrontaliers, destinée à simplifier les flux financiers complexes.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://konnect.network" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/196/Koofin.png" alt="Koofin" title="Koofin" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Koofin
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Koofin propose des produits agricoles de qualité supérieure, du producteur au consommateur final, via un marché du commerce équitable. Ils soutiennent une communauté de micro-agriculteurs par le biais d'un programme de soutien complet.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Foodtech / Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="www.koofin.co" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/178/Kumulus.png" alt="Kumulus" title="Kumulus" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Kumulus
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Kumulus Water crée des machines qui transforment l'humidité de l'air en eau potable.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    watertech / greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="kumuluswater.com" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/180/Majesteye.png" alt="MajestEYE" title="MajestEYE" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">MajestEYE
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Grâce à leur technologie, les entreprises peuvent évoluer vers un modèle économique fondé sur les données.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    AI/ Data analysis
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.majesteye.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/179/Minima.png" alt="Minima ai" title="Minima ai" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Minima ai
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Création des jeux de vision par ordinateur pour l'éducation</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/148/ngsign-(1).png" alt="NGSign" title="NGSign" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">NGSign
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Expert de la signature électronique</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    LegalTech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.ng-sign.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/204/Paymee.png" alt="Paymee" title="Paymee" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Paymee
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Paymee offre une interface de paiement en ligne qui peut être facilement intégrée à tout site web ou application mobile.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.paymee.tn" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/150/proservy-(1).jpeg" alt="Proservy" title="Proservy" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Proservy
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Conciergerie d’entreprise</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.proservy.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/181/REEDZ.png" alt="Reedz" title="Reedz" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Reedz
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Reedz est une application mobile qui propose des résumés audio de 20 minutes des livres les plus vendus, ainsi que les podcasts les plus intéressants.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Media/ content
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://reedz.co/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/152/Relead.png" alt="Relead" title="Relead" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Relead
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Relead s'engage à offrir un accès Wi-Fi gratuit à tous, partout.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://relead.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/182/SYW_Full_BK.png" alt="Save Your Wardrobe" title="Save Your Wardrobe" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Save Your Wardrobe
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Plateforme numérique de garde-robe qui recueille les achats passés de mode et rationalise l'expérience post-achat grâce à un écosystème de services après-vente.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fashiontech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.saveyourwardrobe.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/207/Sea-Bot.png" alt="Seabot" title="Seabot" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Seabot
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        SeaBot est une startup travaillant sur le développement de petits et moyens véhicules sous-marins (drones) dans différents secteurs et domaines [non-militaires] pour fournir à ses clients des ROVs (Remotely Operated underwater Vehicle) et AUVs (Autonomous Underwater Vehicle) robustes et performants couplés à des technologies de pointe ainsi que des sous-marins autonomes) couplés à des technologies de pointe.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Advanced Manufacturing &amp; Robotics
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="www.seabotek.com" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/203/Seekmake.png" alt="SeekMake" title="SeekMake" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">SeekMake
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Seekmake bouleverse le secteur de la fabrication de l'industrie manufacturière en connectant les industrielles aux utilisateurs finaux afin de rendre le processus de fabrication plus facile, moins cher, plus rapide et plus propre
+des pièces en quelques jours.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Tech Sercices/ engineering
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://seekmake.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/202/Senietna.png" alt="Seniatna" title="Seniatna" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Seniatna
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Nés de la richesse des terroirs tunisiens, ils n'emploient que les meilleurs artisans et partagent leur savoir-faire ancestral avec le monde entier.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://seniatna.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/183/Sghartoon.png" alt="SGHARTOON" title="SGHARTOON" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">SGHARTOON
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Sghartoon cérée des outils thérapie par les jeux pour les difficultés d'apprentissage afin d'aider les parents et les thérapeutes à fournir les meilleurs soins.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech / Healthtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="http://sghartoon.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/184/Split.png" alt="Split" title="Split" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Split
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Split est une application de covoiturage offrant un transport alternatif et collaboratif aux Africains, leur permettant d'économiser argent, temps et énergie.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Mobility
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="split.tn" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/201/SQOIN.png" alt="SQOIN" title="SQOIN" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">SQOIN
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Sqoin construit un système transactionnel pour aider les entreprises sociales à atteindre leurs objectifs d'impact en s'appuyant sur la technologie blockchain. Nous sommes l'avenir de l'Impact Finance en Afrique.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech / Blockchain
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.linkedin.com/company/sqoin/?originalSubdomain=tn" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/200/TAWA.png" alt="TAWA Digital Talents" title="TAWA Digital Talents" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">TAWA Digital Talents
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        La solution de mise en relation numérique pour les influenceurs, les créateurs de contenu et les marques.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Media/ content
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://tawa.digital/fr/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/161/logo_PNG_Big.png" alt="Trust IT" title="Trust IT" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Trust IT
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Plateforme de gestion numérique offrant un marché de la réparation avec des services de réussite et de livraison pour les clients, basée sur un vaste réseau d'experts et de fournisseurs.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Tech Sercices/ engineering
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.trustit.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/199/Wedtect.png" alt="WEDTECT" title="WEDTECT" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">WEDTECT
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Une startup qui a trouvé une solution intelligente pour la surveillance des canalisations d'eau (détection des fuites d'eau)</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Deeptech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="Www.WEDTECT.com" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/198/WeMove.png" alt="WeMove" title="WeMove" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">WeMove
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        C'est une application qui te permet de choisir tes séances de sport en fonction de tes envies et réserver tes accés</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Wellness
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.wemove.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/197/YouthHub.png" alt="Youth Hub" title="Youth Hub" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Youth Hub
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Le hub ultime pour libérer le potentiel entrepreneurial des enfants . Dirigeants âgés de 6 à 18ans</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech / Healthtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="www.youthhub.community" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/231/LOGO-AHKILI-ARABE-(1).png" alt="Ahkili" title="Ahkili" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Ahkili
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Ahkili est une start-up facilitant l'accès aux soins psychologiques grâce à un système de réservation et de consultation en ligne avec des psychologues expérimentés.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Wellness
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://ahkili.com.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/232/IMG_6666.jpg" alt="Arzaak" title="Arzaak" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Arzaak
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Arzaak est une start-up qui renforce l’autonomisation des femmes en leurs fournissant des compétences dans le secteur des métiers artisanaux et créatifs.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Artisanat
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://arzaak.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/233/official-logo-bako.png" alt="Bako Motors" title="Bako Motors" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Bako Motors
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Bako Motors est une start-up tuniso-allemande spécialisée dans la
+fabrication de véhicules électriques alimentés par le soleil prévus pour le secteur de "Last mile delivery".</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Mobility
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://bakomotors.com/home" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/234/LOGO-bLUE-JET_Plan-de-travail-2.png" alt="Blue Jet Engineering" title="Blue Jet Engineering" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Blue Jet Engineering
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Blue Jet Engineering est une start-up spécialisée dans le développement de solutions d'irrigation intelligentes pour le secteur agricole.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    watertech / greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.bluejetengineering.com/#/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/235/DCX-logo.png" alt="DCX" title="DCX" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">DCX
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Digital Cultural eXperience est une start-up EdTech dédiée à la promotion de l'éducation au patrimoine chez les jeunes grâce à la création d'expériences immersives.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.dcx.studio/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/236/Logo-Horizontal-(1).png" alt="eSteps Health" title="eSteps Health" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">eSteps Health
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        eSteps Health est une star-tup qui propose des solutions de tracking à distance de maladies neurodégénératives à destination des patients et des professionels de santé.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Healthtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://estepshealth.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/237/Logos_flouci-horizontal-gradient.png" alt="Flouci" title="Flouci" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Flouci
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Flouci est une app financière de banque digitale, de gestion de wallets et de paiements pour les particuliers et les entreprises.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://flouci.com/fr" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/238/Instaware-.png" alt="Instaware" title="Instaware" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Instaware
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Instaware est une start-up qui propose des solutions de domotique et de sécurité basées sur l'intelligence artificielle.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    AI/ Tech environment
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.instaware.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/239/Kamioun-Logo.png" alt="Kamioun" title="Kamioun" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Kamioun
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Kamioun est une start-up qui propose aux magasins de quartier une plateforme mobile qui les aide à assurer la gestion de leurs stocks et à digitaliser leurs opérations.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    B2B software services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.kamioun.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/240/ICOFichier-1.png" alt="Lunar TC" title="Lunar TC" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Lunar TC
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Lunar TC est une start-up spécialisée dans l’automatisation des processus grâce à son "No code Workflow Management System".</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.lunflow.com/home" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/241/LOGO_Slogan-NextAV-removebg.png" alt="NextAV" title="NextAV" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">NextAV
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        NextAV est une start-up spécialisée dans l'analyse géospatiale qui, grâce à l'intelligence artificielle, propose des solutions innovantes pour le développement durable.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    IA/Greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://nextav.ai/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/242/justice-2-(1).png" alt="SIMARL" title="SIMARL" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">SIMARL
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        SIMARL est une start-up qui propose des solutions de résolution de conflits par la négociation, la médiation et l'arbitrage en intégrant des technologies.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    LegalTech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://soft-justice.com.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/243/1663324502134009_1720340732.png" alt="Slidzo" title="Slidzo" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Slidzo
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Slidzo est une plateforme d'édition de présentations en ligne avec des fonctionnalités 3D et d'intelligence artificielle.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Software/IA
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://slidzo.com/fr/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/244/SmarDac-Logo.png" alt="SmarDac" title="SmarDac" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">SmarDac
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        SmarDac est une solution pay-as-you-go ciblant l'industrie de l'énergie.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.f6s.com/company/smardac#about" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/245/Plan-de-travail-1.png" alt="Soul &amp; Planet" title="Soul &amp; Planet" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Soul &amp; Planet
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Soul &amp; Planet est une start-up qui propose des solutions et produits éco-responsables à destination des entreprises pour réduire leur impact environnemental.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://soulandplanet.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/246/Full-logo--Mixed.png" alt="Tabaani" title="Tabaani" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Tabaani
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Tabaani est une start-up proposant une plateforme qui permet de connecter voyageurs à la recherche d'expériences authentiques et habitants permettant une immersion au sein des communautés locales.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Consumer products and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://tabaani.co/home" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/247/The-UXers-Logo.png" alt="UXers" title="UXers" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">UXers
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        UXers est une start-up proposant des formations et du mentorat dans le secteur de l'UX Design.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Design/UX
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.linkedin.com/company/the-uxers-tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/249/ViZmerald_ProofTechonolgies.png" alt="ViZmerald" title="ViZmerald" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">ViZmerald
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        ViZmerald est une start-up spécialisée dans le design de produits électroniques dont le premier produit est un casque de protection respiratoire connecté pour les professionels de l'industrie et de la santé.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Advanced Manufacturing &amp; Robotics
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://vizmerald.com/wp/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/250/Logo-Wantotrip-Transparent.png" alt="Wantotrip" title="Wantotrip" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Wantotrip
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Wantotrip est une plateforme de gestion de voyages qui connecte les influenceurs et créateurs de contenu avec leur communautés autour d'expériences de voyage authentiques.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Consumer products and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.wantotrip.net/home" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/251/WaterSec-Logo.png" alt="WaterSec" title="WaterSec" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">WaterSec
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        WaterSec est une start-up qui propose une solution IoT de suivi de la consommation d'eau en temps réel de manière à identifier son gaspillage et à améliorer sa gestion.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    watertech / greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.water-sec.com/fr" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/287/Wildkard.png" alt="WildKard" title="WildKard" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">WildKard
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        La mission de l'entreprise est de fournir aux clients une plateforme pratique et accessible pour acheter divers produits et services de bien-être, y compris des produits de sport, de mode et de beauté, des cours de fitness, des traitements de spa et des suppléments de santé.
+L'objectif ultime de Wildkard est de promouvoir un mode de vie plus sain et de rendre le bien-être plus accessible aux habitants de la Tunisie et de la région Mena</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Consumer products and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://wildkard.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/289/fullLogo.webp" alt="Yoteqi" title="Yoteqi" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Yoteqi
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Yoteqi est une startup de réseautage social qui permet aux professionnels de se mettre en réseau et de saisir de nouvelles opportunités. La plateforme offre une solution complète et unique pour étendre les réseaux, construire des relations significatives et faire avancer les carrières.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Consumer products and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://yoteqi.com/fr/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/296/Logo-Urban-Green.png" alt="Urban Green" title="Urban Green" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Urban Green
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Urban Green est une start-up spécialisée en agriculture urbaine et en végétalisation qui a pour mission de reconnecter les citadins à la nature en les rendant acteurs de la ville de demain.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://urbangreen.tn/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/297/WhatsApp-Image-2024-10-25-à-08.56.51_8440d435.jpg" alt="BÜKLAB" title="BÜKLAB" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">BÜKLAB
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        BÜKLAB se spécialise dans les activités interactives pour les enfants de 3 à 13 ans, intégrant réalité augmentée et intelligence artificielle pour éveiller leur curiosité et créativité.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Edtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/298/IMG-20241024-WA0002.jpg" alt="Cochdye" title="Cochdye" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Cochdye
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Cochdye transforme les cochenilles nuisibles en teinture précieuse, offrant une solution durable pour protéger les cultures de cactus.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/299/Micochain-Labs-logo-(1).png" alt="Microchain Labs" title="Microchain Labs" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Microchain Labs
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Microchain Labs crée une interface standardisée pour l'identité numérique, basée sur des protocoles Blockchain sécurisés et indépendants.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Business Software and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/300/Logo-GARAGY.png" alt="GARAGY" title="GARAGY" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">GARAGY
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        GARAGY est une plateforme qui connecte les propriétaires de voitures à des garagistes qualifiés, offrant une expérience fluide et efficace grâce à un système de notation des garages.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Consumer products and services
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/301/WhatsApp-Image-2024-10-26-à-08.31.51_545cadc1.jpg" alt="Beautybot" title="Beautybot" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Beautybot
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        BeautyBot est un conseiller beauté virtuel qui recommande des produits adaptés à la peau et aux cheveux, offrant une assistance en ligne 24/7 sans déplacement.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Wellness
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/302/cropped-logo-melleya-2.webp" alt="Melleya" title="Melleya" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Melleya
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Melleya propose Apishield, une solution qui simplifie le traitement des acariens Varroa, aidant les apiculteurs à protéger et améliorer la santé de leurs colonies.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/303/Logo-Ektomia-PNG.png" alt="ekTOMIA" title="ekTOMIA" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">ekTOMIA
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Ektomia propose des accessoires écologiques pour vélos et bagages, ainsi qu’un panier connecté pour apaiser les animaux en déplacement.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Biotech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">BIM-verse
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        BIM-verse associe le BIM à la VR pour une visualisation claire des projets de construction, améliorant la coordination, réduisant les coûts et simplifiant la collaboration.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Construction
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/304/Layer_1.png" alt="DEFENDR" title="DEFENDR" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">DEFENDR
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Defendr facilite l'organisation de tournois de jeux vidéo avec une plateforme sécurisée, offrant des opportunités aux joueurs et aux organisateurs tout en engageant les spectateurs.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    E-sports
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/305/unnamed.jpg" alt="Tijara Tech" title="Tijara Tech" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Tijara Tech
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Tijara Tech est une plateforme tout-en-un offrant des chatbots IA, la gestion des réseaux sociaux et des solutions e-commerce pour automatiser le marketing et le support client.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    E-com
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Health-Hub
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Health-Hub révolutionne les soins de santé avec Dialy-Help, une solution pour les patients sous dialyse, intégrant des dispositifs portables et une gestion optimisée grâce à l'IA et à l'IoT</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Healthtech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/306/WhatsApp-Image-2024-09-13-at-1.37.08-PM.jpeg" alt="Trip Hive" title="Trip Hive" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Trip Hive
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Trip Hive est une plateforme qui utilise l'IA pour simplifier la planification d'excursions touristiques et optimiser le matchmaking entre B2B et clients.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Traveltech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/307/Logo-Gran-Cru-Olive-Oil.png" alt="Grand Cru Olive Oil" title="Grand Cru Olive Oil" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Grand Cru Olive Oil
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Grand Cru Olive Oil est une e-boutique qui propose des huiles d'olive tunisiennes de qualité, soutenant les petits agriculteurs..</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/308/WhatsApp-Image-2024-11-22-à-15.06.23_ca7177a7.jpg" alt="TRENA" title="TRENA" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">TRENA
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        TRENA connecte utilisateurs, coachs et nutritionnistes pour des programmes personnalisés, avec une boutique de vêtements de sport et suppléments.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Wellness
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/309/Greeny-Solutions_logo-(2).png" alt="Greeny Solutions" title="Greeny Solutions" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Greeny Solutions
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Greeny Solutions est spécialisée dans l'agriculture en intérieur, avec un système basé sur l'IA pour optimiser la production alimentaire de manière durable et rentable.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://greeny-solutions.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/310/logo-KARYAXPRESS.png" alt="KaryaXpress" title="KaryaXpress" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">KaryaXpress
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        KaryaXpress est une marketplace reliant agences de location et locataires, avec recherche géolocalisée et gestion des contrats.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Mobility
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.karyaxpress.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/311/kickoff-logo-(1).png" alt="Kickoff" title="Kickoff" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Kickoff
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Kickoff est une plateforme tunisienne de crowdfunding qui connecte les porteurs de projets aux contributeurs et offre un accompagnement pour réussir les campagnes.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Fintech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.kickoff.tn" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/312/LOGO_ORION-(1).png" alt="ORION.IA" title="ORION.IA" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">ORION.IA
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        ORION.IA est une plateforme innovante qui utilise l'IA pour transformer la conception d'espaces, offrant des designs d'intérieur personnalisés alliant créativité et technologie.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Design d'intérieur
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.orionia.fr/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/313/460729876_8988067004540851_5482510355557377693_n-(2).jpg" alt="Thrifty" title="Thrifty" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Thrifty
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Thrifty est une plateforme qui réduit le gaspillage alimentaire en vendant à prix réduits les invendus des commerces sous forme de paniers surprises, accessibles en ligne et récupérés en magasin.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Greentech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://thriftystoretn.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/314/logo2-(2).png" alt="Kuluwak" title="Kuluwak" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">Kuluwak
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        Kuluwak est une start-up qui connecte chefs à domicile et consommateurs pour des plats faits maison, tout en offrant des formations pour les professionnels sur la durabilité et la nutrition.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Foodtech / Agritech
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://www.kuluwak.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                            <li class="table-row">
+                                    <div class="t-col t-col-1" data-label="Logo">
+                                                                                    <img src="https://thedot.tn/storage/315/mena-can.png" alt="MENA-can" title="MENA-can" width="100">
+                                                                            </div>
+                                    <div class="t-col t-col-2" data-label="Nom">MENA-can
+                                    </div>
+                                    <div class="t-col t-col-3" data-label="Description">
+                                        MENA-can est une plateforme qui soutient les acteurs de changement et entrepreneurs sociaux dans la région MENA, en offrant ressources, mentorat et réseau pour lancer des initiatives impactantes et promouvoir le développement durable.</div>
+                                    <div class="t-col t-col-4" data-label="Secteur">
+                                                                                    Culture
+                                                                            </div>
+                                    <div class="t-col t-col-5" data-label="Site web">
+                                                                                    <a href="https://mena-can.com/" target="_blank"><span class="d-icon d-icon-external-link"></span></a>
+                                                                            </div>
+                                </li>
+                                                    </ul>
+                    </div>
+                            </section>
+            
+    
+    <!-------------------- Footer Section -------------------->
+<footer class="main-footer  footer-transparant ">
+    <div class="container-fluid">
+        <div class="d-flex flex-row flex-wrap flex-md-nowrap justify-content-center">
+            <div class="footer-logo">
+                <img src="https://thedot.tn/storage/images/logo_the_dot.svg" alt="The dot">
+            </div>
+            <div class="footer-right-section">
+                <div class="footer-top">
+                    <div class="row align-items-center text-center text-md-start">
+                        <div class="col-md-6">
+                            <div class="footer-data">
+                                <span>The Dot</span>
+                                <span class="address">Rue Lac Malaren, Les Berges du Lac
+                            </span></div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="footer-socials">
+                                                                                                            <a href="https://www.facebook.com/TheDOT.tn/" target="_blank"><span class="d-icon d-icon-facebook"></span></a>
+                                                                                                                                                                                                                                                            <a href="https://www.youtube.com/channel/UCv71Vw119i-vuvDbUN553ng" target="_blank"><span class="d-icon d-icon-youtube"></span></a>
+                                                                                                                                                                                                                                                            <a href="https://www.linkedin.com/company/the-dot-tn/" target="_blank"><span class="d-icon d-icon-linkedin"></span></a>
+                                                                                                </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="footer-bottom">
+                    <div class="row">
+
+                        <div class="col-md-6 order-lg-2">
+                            
+                        </div>
+
+                        <div class="col-md-6 order-lg-1">
+                            <ul class="f-item">
+                                <li><a href="#">Tous droits réservés ©  2026</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    
+    
+    <script src="https://thedot.tn/js/app.js"></script>
+
+    
+</body><!--------------------------------- scripts!---------------------------------></html>
